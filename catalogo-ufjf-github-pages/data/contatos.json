@@ -1,0 +1,8615 @@
+[
+  {
+    "id": 1,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Biblioteca",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3523",
+        "digits": "553221023523"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 2,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Coordenação do curso de Administração",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3535",
+        "digits": "553221023535"
+      }
+    ],
+    "emails": [
+      "coord.adm@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 3,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Coordenação do curso de Administração Integral",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3535",
+        "digits": "553221023535"
+      }
+    ],
+    "emails": [
+      "coord.adm.integral@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 4,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Coordenação do curso de Administração Noturno",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3535",
+        "digits": "553221023535"
+      }
+    ],
+    "emails": [
+      "coord.adm.noturno@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 5,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Coordenação do curso de Ciências Contábeis Integral",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3535",
+        "digits": "553221023535"
+      }
+    ],
+    "emails": [
+      "coord.contabeis.integral@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 6,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Coordenação do curso de Ciências Contábeis Noturno",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3535",
+        "digits": "553221023535"
+      }
+    ],
+    "emails": [
+      "coord.contabeis.noturno@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 7,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Coordenação dos mestrados",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3532",
+        "digits": "553221023532"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 8,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Coordenações de curso",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3525",
+        "digits": "553221023525"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 9,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Secretaria acadêmica",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3524",
+        "digits": "553221023524"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 10,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Secretaria administrativa",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3528",
+        "digits": "553221023528"
+      }
+    ],
+    "emails": [
+      "secretaria.facc@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 11,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Secretaria BAP",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3384",
+        "digits": "553221023384"
+      },
+      {
+        "label": "(32) 2102-3528",
+        "digits": "553221023528"
+      }
+    ],
+    "emails": [
+      "secretaria.bap@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 12,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Secretaria de Extensão",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3550",
+        "digits": "553221023550"
+      }
+    ],
+    "emails": [
+      "extensao.facc@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 13,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Secretaria do curso de Administração",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3524",
+        "digits": "553221023524"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 14,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Secretaria do curso de Ciências Contábeis",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3524",
+        "digits": "553221023524"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 15,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Secretaria FACC",
+    "site": "https://www2.ufjf.br/facc",
+    "telefones": [
+      {
+        "label": "(32) 2102-3521",
+        "digits": "553221023521"
+      }
+    ],
+    "emails": [
+      "secretaria.adm@facc.ufjf.br",
+      "secretaria.facc@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 16,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Secretaria Mestrado Acadêmico em Administração",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3522",
+        "digits": "553221023522"
+      }
+    ],
+    "emails": [
+      "mestrado.admacad@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 17,
+    "setor": "ADMINISTRAÇÃO E CIÊNCIAS CONTÁBEIS – FACC",
+    "subsetor": "Secretaria Mestrado Profissional em Administração Pública - PROFIAP",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3522",
+        "digits": "553221023522"
+      }
+    ],
+    "emails": [
+      "mestrado.admprof@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 18,
+    "setor": "ALMOXARIFADO CENTRAL",
+    "subsetor": "Gerência de Estoque (Almoxarifado Central)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6490",
+        "digits": "553221026490"
+      }
+    ],
+    "emails": [
+      "almoxarifado.central@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 19,
+    "setor": "APES JF – Associação dos Professores de Ensino Superior de Juiz de Fora",
+    "subsetor": "Assessoria Jurídica",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 3216-7890",
+        "digits": "553232167890"
+      }
+    ],
+    "emails": [
+      "leocastroadv@hotmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 20,
+    "setor": "APES JF – Associação dos Professores de Ensino Superior de Juiz de Fora",
+    "subsetor": "Jornalismo",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 99158-6924",
+        "digits": "5532991586924"
+      }
+    ],
+    "emails": [
+      "apesjf@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 21,
+    "setor": "APES JF – Associação dos Professores de Ensino Superior de Juiz de Fora",
+    "subsetor": "Plano de Saúde",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 98410-9828",
+        "digits": "5532984109828"
+      }
+    ],
+    "emails": [
+      "beth@apesjf.org.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 22,
+    "setor": "APES JF – Associação dos Professores de Ensino Superior de Juiz de Fora",
+    "subsetor": "Secretaria",
+    "site": "https://www.apesjf.org.br/",
+    "telefones": [
+      {
+        "label": "(32) 99109-2284",
+        "digits": "5532991092284"
+      }
+    ],
+    "emails": [
+      "faleconosco@apesjf.org.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 23,
+    "setor": "APES JF – Associação dos Professores de Ensino Superior de Juiz de Fora",
+    "subsetor": "Tesouraria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 99160-5284",
+        "digits": "5532991605284"
+      }
+    ],
+    "emails": [
+      "ronaldo@apesjf.org.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 24,
+    "setor": "ARQUITETURA E URBANISMO",
+    "subsetor": "Coordenação do curso",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6307",
+        "digits": "553221026307"
+      }
+    ],
+    "emails": [
+      "coord.arquitetura@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 25,
+    "setor": "ARQUITETURA E URBANISMO",
+    "subsetor": "Departamentos DPRT e DPHT",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3403",
+        "digits": "553221023403"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 26,
+    "setor": "ARQUITETURA E URBANISMO",
+    "subsetor": "Direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3359",
+        "digits": "553221023359"
+      }
+    ],
+    "emails": [
+      "direcao.fau@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 27,
+    "setor": "ARQUITETURA E URBANISMO",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/fau",
+    "telefones": [
+      {
+        "label": "(32) 2102-3403",
+        "digits": "553221023403"
+      }
+    ],
+    "emails": [
+      "secretaria.fau@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 28,
+    "setor": "ARQUIVO CENTRAL",
+    "subsetor": "Arquivos Permanentes, Restauração e Secretaria (Av. Rio Branco, 3460)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6321",
+        "digits": "553221026321"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 29,
+    "setor": "ARQUIVO CENTRAL",
+    "subsetor": "Coordenação Sistema de Arquivos (Reitoria/Campus)",
+    "site": "https://www2.ufjf.br/arquivocentral",
+    "telefones": [
+      {
+        "label": "(32) 2102-3984",
+        "digits": "553221023984"
+      }
+    ],
+    "emails": [
+      "gestao.documentos@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 30,
+    "setor": "AUDITORIA INTERNA – Audin/UFJF",
+    "subsetor": "Coordenação Sistema de Arquivos (Reitoria/Campus)",
+    "site": "https://www2.ufjf.br/auditoriainterna",
+    "telefones": [
+      {
+        "label": "(32) 2102-3397",
+        "digits": "553221023397"
+      }
+    ],
+    "emails": [
+      "auditoriainterna@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 31,
+    "setor": "BACHARELADO INTERDISCIPLINAR EM ARTES E DESIGN",
+    "subsetor": "Biblioteca do IAD",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "biblioteca.iad@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 32,
+    "setor": "BACHARELADO INTERDISCIPLINAR EM ARTES E DESIGN",
+    "subsetor": "Coordenação do curso",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3354",
+        "digits": "553221023354"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 33,
+    "setor": "BACHARELADO INTERDISCIPLINAR EM ARTES E DESIGN",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/biad",
+    "telefones": [
+      {
+        "label": "(32) 2102-3353",
+        "digits": "553221023353"
+      }
+    ],
+    "emails": [
+      "secretaria.iad@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 34,
+    "setor": "BIBLIOTECA UNIVERSITÁRIA – Centro de Difusão do Conhecimento – CDC",
+    "subsetor": "Atendimento ao usuário",
+    "site": "https://www.ufjf.br/biblioteca",
+    "telefones": [
+      {
+        "label": "(32) 2102-3767",
+        "digits": "553221023767"
+      },
+      {
+        "label": "(32) 2102-3671",
+        "digits": "553221023671"
+      }
+    ],
+    "emails": [
+      "biblioteca.central@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 35,
+    "setor": "BIBLIOTECA UNIVERSITÁRIA – Centro de Difusão do Conhecimento – CDC",
+    "subsetor": "Coordenação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3760",
+        "digits": "553221023760"
+      }
+    ],
+    "emails": [
+      "cdc@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 36,
+    "setor": "BIBLIOTECA UNIVERSITÁRIA – Centro de Difusão do Conhecimento – CDC",
+    "subsetor": "Processamento Técnico",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3752",
+        "digits": "553221023752"
+      }
+    ],
+    "emails": [
+      "processamento.tecnico@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 37,
+    "setor": "BIBLIOTECA UNIVERSITÁRIA – Centro de Difusão do Conhecimento – CDC",
+    "subsetor": "Secretaria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3761",
+        "digits": "553221023761"
+      },
+      {
+        "label": "(32) 2102-3670",
+        "digits": "553221023670"
+      },
+      {
+        "label": "(32) 2102-3764",
+        "digits": "553221023764"
+      }
+    ],
+    "emails": [
+      "secretaria.cdc@ufjf.br",
+      "multas.cdc@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 38,
+    "setor": "CAED – Centro de Políticas Públicas e Avaliação da Educação",
+    "subsetor": "(Pós-graduação)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-9330",
+        "digits": "553240099330"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 39,
+    "setor": "CAED – Centro de Políticas Públicas e Avaliação da Educação",
+    "subsetor": "Secretaria do PPGP",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-9322",
+        "digits": "553240099322"
+      }
+    ],
+    "emails": [
+      "mestrado@caed.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 40,
+    "setor": "CAED – Centro de Políticas Públicas e Avaliação da Educação",
+    "subsetor": "Unidade Dom Orione",
+    "site": "https://institucional.caeddigital.net",
+    "telefones": [
+      {
+        "label": "(32) 4009-9300",
+        "digits": "553240099300"
+      }
+    ],
+    "emails": [
+      "faleconosco@fundacaocaed.org.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 41,
+    "setor": "CAED – Centro de Políticas Públicas e Avaliação da Educação",
+    "subsetor": "Unidade Espírito Santo",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-9750",
+        "digits": "553240099750"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 42,
+    "setor": "CASA HELENIRA PRETA",
+    "subsetor": "Localizada na Av. Barão do Rio Branco, 3372 ou pela Rua Severino Meireles, 260 – Passos – Juiz de Fora",
+    "site": "https://www.ufjf.br/facssocial/institucional/casa-helenira-preta/",
+    "telefones": [
+      {
+        "label": "(32) 2102-6310",
+        "digits": "553221026310"
+      }
+    ],
+    "emails": [
+      "casa.helenirarezende@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 43,
+    "setor": "CDARA",
+    "subsetor": "Dúvidas sobre a documentação do Anexo 1 (todos os grupos)",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "duvidasmatricula@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 44,
+    "setor": "CDARA",
+    "subsetor": "Dúvidas sobre a documentação do Anexo 2 (grupos A, B, G e H)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3341",
+        "digits": "553221023341"
+      }
+    ],
+    "emails": [
+      "analiserenda.cdara@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 45,
+    "setor": "CDARA",
+    "subsetor": "Dúvidas sobre a documentação dos Anexos 3, 4, 5, 6 e 7 (grupos A, D, H. J, G e I)",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "garv.cdara@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 46,
+    "setor": "CDARA",
+    "subsetor": "Gerência de Colação de Grau e Registro de Diplomas (Diplomas (graduação) e Revalidação de Diploma)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3737",
+        "digits": "553221023737"
+      }
+    ],
+    "emails": [
+      "sra.cdara@ufjf.br",
+      "gra.cdara@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 47,
+    "setor": "CDARA",
+    "subsetor": "GMCA – Gerência de Matrícula e Controle Acadêmico (Matrícula, Recursos, Aproveitamento de Estudos)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3734",
+        "digits": "553221023734"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 48,
+    "setor": "CDARA",
+    "subsetor": "GMCA-PG – Gerência de Matrícula e Controle Acadêmico da Pós-graduação (Assuntos de Pós-graduação lato-sensu ou stricto-sensu)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3368",
+        "digits": "553221023368"
+      },
+      {
+        "label": "(32) 2102-3731",
+        "digits": "553221023731"
+      }
+    ],
+    "emails": [
+      "gmcapos.cdara@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 49,
+    "setor": "CDARA",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/cdara",
+    "telefones": [
+      {
+        "label": "(32) 2102-3733",
+        "digits": "553221023733"
+      }
+    ],
+    "emails": [
+      "cdara@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 50,
+    "setor": "CDARA",
+    "subsetor": "SGLA – Subgerência de Lançamentos Acadêmicos (Atestados, Grade Curricular, Histórico e Ementas)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3732",
+        "digits": "553221023732"
+      }
+    ],
+    "emails": [
+      "sgla.cdara@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 51,
+    "setor": "CEAD – Centro de Educação à Distância",
+    "subsetor": "Centro de Educação à Distância",
+    "site": "https://www.cead.ufjf.br",
+    "telefones": [
+      {
+        "label": "(32) 2102-3487",
+        "digits": "553221023487"
+      },
+      {
+        "label": "(32) 2102-3488",
+        "digits": "553221023488"
+      },
+      {
+        "label": "(32) 2102-3489",
+        "digits": "553221023489"
+      }
+    ],
+    "emails": [
+      "secretaria.cead@ufjf.br",
+      "academico.cead@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 52,
+    "setor": "CECOM – Centro de Conservação da Memória",
+    "subsetor": "Centro de Conservação da Memória",
+    "site": "https://www2.ufjf.br/cecom",
+    "telefones": [],
+    "emails": [
+      "cecomufjf@gmail.com",
+      "cecom.procultura@ufjf.br",
+      "cecomufjfacervo@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 53,
+    "setor": "CENTRAL DE ATENDIMENTO – CAT",
+    "subsetor": "Central de Atendimento – UFJF – Campus sede",
+    "site": "https://www.ufjf.br/cat",
+    "telefones": [
+      {
+        "label": "(32) 2102-3911",
+        "digits": "553221023911"
+      }
+    ],
+    "emails": [
+      "faleconosco@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 54,
+    "setor": "CENTRO CULTURAL PRÓ-MÚSICA",
+    "subsetor": "Contato geral",
+    "site": "https://www.promusicaufjf.com.br",
+    "telefones": [
+      {
+        "label": "(32) 3218-0336",
+        "digits": "553232180336"
+      }
+    ],
+    "emails": [
+      "secretaria.promusica@ufjf.edu.br",
+      "recepcao.promusica@ufjf.br",
+      "producao.promusica@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 55,
+    "setor": "CENTRO DE BIOLOGIA DA REPRODUÇÃO",
+    "subsetor": "BIOTÉRIO",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3255",
+        "digits": "553221023255"
+      },
+      {
+        "label": "(32) 2102-3251",
+        "digits": "553221023251"
+      }
+    ],
+    "emails": [
+      "bioterio.cbr@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 56,
+    "setor": "CENTRO DE BIOLOGIA DA REPRODUÇÃO",
+    "subsetor": "DIREÇÃO",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3255",
+        "digits": "553221023255"
+      },
+      {
+        "label": "(32) 2102-3251",
+        "digits": "553221023251"
+      }
+    ],
+    "emails": [
+      "direcao.cbr@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 57,
+    "setor": "CENTRO DE BIOLOGIA DA REPRODUÇÃO",
+    "subsetor": "https://www2.ufjf.br/cbr/",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 58,
+    "setor": "CENTRO DE BIOLOGIA DA REPRODUÇÃO",
+    "subsetor": "LABORATÓRIOS",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3255",
+        "digits": "553221023255"
+      },
+      {
+        "label": "(32) 2102-3251",
+        "digits": "553221023251"
+      }
+    ],
+    "emails": [
+      "laboratorio.cbr@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 59,
+    "setor": "CENTRO DE CIÊNCIAS",
+    "subsetor": "Centro de Ciências",
+    "site": "https://www.ufjf.br/centrodeciencias",
+    "telefones": [
+      {
+        "label": "(32) 2102-6913",
+        "digits": "553221026913"
+      },
+      {
+        "label": "(32) 2102-6914",
+        "digits": "553221026914"
+      }
+    ],
+    "emails": [
+      "centrodeciencias@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 60,
+    "setor": "CENTRO DE CONSERVAÇÃO DA MEMÓRIA – CECOM",
+    "subsetor": "Contato geral",
+    "site": "https://www2.ufjf.br/cecom/",
+    "telefones": [
+      {
+        "label": "(32) 3212-3286",
+        "digits": "553232123286"
+      }
+    ],
+    "emails": [
+      "cecomufjf@gmail.com",
+      "cecom.procultura@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 61,
+    "setor": "CIÊNCIA DA COMPUTAÇÃO",
+    "subsetor": "Coordenação do curso",
+    "site": "https://www.ufjf.br/cursocomputacao",
+    "telefones": [
+      {
+        "label": "(32) 2102-3316",
+        "digits": "553221023316"
+      }
+    ],
+    "emails": [
+      "coord.computacao@ufjf.br",
+      "coord.computacaonoturno@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 62,
+    "setor": "CIÊNCIA DA COMPUTAÇÃO",
+    "subsetor": "Departamento de Ciência da Computação (DCC)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3311",
+        "digits": "553221023311"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 63,
+    "setor": "CIÊNCIAS EXATAS",
+    "subsetor": "Biblioteca da Exatas",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "biblioteca.ice@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 64,
+    "setor": "CIÊNCIAS EXATAS",
+    "subsetor": "Direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3300",
+        "digits": "553221023300"
+      }
+    ],
+    "emails": [
+      "direcao@ice.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 65,
+    "setor": "CIÊNCIAS EXATAS",
+    "subsetor": "Secretaria",
+    "site": "https://www2.ufjf.br/ice",
+    "telefones": [
+      {
+        "label": "(32) 2102-3301",
+        "digits": "553221023301"
+      },
+      {
+        "label": "(32) 2102-3302",
+        "digits": "553221023302"
+      }
+    ],
+    "emails": [
+      "secretaria.ice@ice.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 66,
+    "setor": "CIÊNCIAS EXATAS",
+    "subsetor": "Secretaria dos Cursos de Graduação Presencial",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3326",
+        "digits": "553221023326"
+      },
+      {
+        "label": "(32) 2102-3301",
+        "digits": "553221023301"
+      },
+      {
+        "label": "(32) 2102-3316",
+        "digits": "553221023316"
+      }
+    ],
+    "emails": [
+      "coordenacoes.ice@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 67,
+    "setor": "CIÊNCIAS SOCIAIS",
+    "subsetor": "Chefia de Departamento",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3161",
+        "digits": "553221023161"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 68,
+    "setor": "CIÊNCIAS SOCIAIS",
+    "subsetor": "Coordenação de Curso",
+    "site": "https://www.ufjf.br/graduacaocienciassociais",
+    "telefones": [
+      {
+        "label": "(32) 2102-3106",
+        "digits": "553221023106"
+      }
+    ],
+    "emails": [
+      "coord.cienciassociais@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 69,
+    "setor": "CINE THEATRO CENTRAL",
+    "subsetor": "Bilheteria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6329",
+        "digits": "553221026329"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 70,
+    "setor": "CINE-THEATRO CENTRAL",
+    "subsetor": "Contato geral",
+    "site": "http://www.theatrocentral.com.br",
+    "telefones": [
+      {
+        "label": "(32) 3231-4051",
+        "digits": "553232314051"
+      }
+    ],
+    "emails": [
+      "cinetheatrocentral@ufjf.edu.br",
+      "cinetheatrocentral@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 71,
+    "setor": "CINE THEATRO CENTRAL",
+    "subsetor": "Escritório",
+    "site": "https://www.theatrocentral.com.br",
+    "telefones": [
+      {
+        "label": "(32) 2102-6330",
+        "digits": "553221026330"
+      }
+    ],
+    "emails": [
+      "cinetheatrocentral@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 72,
+    "setor": "COESF – Coordenação de Execução e Suporte Financeiro",
+    "subsetor": "Coordenação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3948",
+        "digits": "553221023948"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 73,
+    "setor": "COESF – Coordenação de Execução e Suporte Financeiro",
+    "subsetor": "Gerência de Conformidade",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3948",
+        "digits": "553221023948"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 74,
+    "setor": "COESF – Coordenação de Execução e Suporte Financeiro",
+    "subsetor": "Gerência de Contabilidade",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3948",
+        "digits": "553221023948"
+      }
+    ],
+    "emails": [
+      "coesf.contabilidade@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 75,
+    "setor": "COESF – Coordenação de Execução e Suporte Financeiro",
+    "subsetor": "Gerência de Execução Financeira (Financeiro)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3948",
+        "digits": "553221023948"
+      }
+    ],
+    "emails": [
+      "coesf.financeiro@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 76,
+    "setor": "COESF – Coordenação de Execução e Suporte Financeiro",
+    "subsetor": "Gerência de Execução Orçamentária (Empenho)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3948",
+        "digits": "553221023948"
+      }
+    ],
+    "emails": [
+      "coesf.empenho@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 77,
+    "setor": "COESF – Coordenação de Execução e Suporte Financeiro",
+    "subsetor": "Gerência de Liquidação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3948",
+        "digits": "553221023948"
+      }
+    ],
+    "emails": [
+      "coesf.liquidacao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 78,
+    "setor": "COESF – Coordenação de Execução e Suporte Financeiro",
+    "subsetor": "Secretaria",
+    "site": "https://www2.ufjf.br/coesf",
+    "telefones": [
+      {
+        "label": "(32) 2102-3948",
+        "digits": "553221023948"
+      }
+    ],
+    "emails": [
+      "coesf@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 79,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Biblioteca",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3641",
+        "digits": "553221023641"
+      }
+    ],
+    "emails": [
+      "biblioteca.joaoxxiii@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 80,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Comunicação / Especialização",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3635",
+        "digits": "553221023635"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 81,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Coordenação Ensino Fundamental",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3625",
+        "digits": "553221023625"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 82,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Coordenação Ensino Médio",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3626",
+        "digits": "553221023626"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 83,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Departamento de Ciências Humanas",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3631",
+        "digits": "553221023631"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 84,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Departamento de Ciências Naturais",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3632",
+        "digits": "553221023632"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 85,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Departamento de Educação Física",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3630",
+        "digits": "553221023630"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 86,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Departamento de Letras e Artes",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3627",
+        "digits": "553221023627"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 87,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Departamento de Matemática",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3636",
+        "digits": "553221023636"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 88,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3621",
+        "digits": "553221023621"
+      }
+    ],
+    "emails": [
+      "direcao.joaoxxiii@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 89,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Enfermaria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3639",
+        "digits": "553221023639"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 90,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Laboratório de Ciências",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3634",
+        "digits": "553221023634"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 91,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Laboratório de Física",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3633",
+        "digits": "553221023633"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 92,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Núcleo de Apoio Escolar (NAE)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3640",
+        "digits": "553221023640"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 93,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Portaria",
+    "site": "https://www.joaoxxiii.ufjf.br",
+    "telefones": [
+      {
+        "label": "(32) 2102-3622",
+        "digits": "553221023622"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 94,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Sala de Artes",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3629",
+        "digits": "553221023629"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 95,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Sala de Línguas Estrangeiras",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3628",
+        "digits": "553221023628"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 96,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Sala dos Professores 1º Ano EF",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3637",
+        "digits": "553221023637"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 97,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Sala dos Professores 2º ao 5º Ano EF",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3638",
+        "digits": "553221023638"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 98,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Sala dos Professores 6º ao 9º Ano EF",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3638",
+        "digits": "553221023638"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 99,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Sala Manutenção Computadores",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3642",
+        "digits": "553221023642"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 100,
+    "setor": "COLÉGIO DE APLICAÇÃO JOÃO XXIII",
+    "subsetor": "Secretaria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3623",
+        "digits": "553221023623"
+      },
+      {
+        "label": "(32) 2102-3624",
+        "digits": "553221023624"
+      }
+    ],
+    "emails": [
+      "joaoxxiii@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 101,
+    "setor": "COMISSÃO DE ÉTICA DA UFJF",
+    "subsetor": "Comissão de Ética da UFJF Sala nº 123, prédio da Reitoria - Campus/JF",
+    "site": "https://www2.ufjf.br/comissaodeetica/",
+    "telefones": [],
+    "emails": [
+      "comissao.etica@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 102,
+    "setor": "COMISSÃO DE ÉTICA NO USO DE ANIMAIS – CEUA",
+    "subsetor": "Comissão de Ética no Uso de Animais (CEUA)",
+    "site": "https://www.ufjf.br/ceua",
+    "telefones": [
+      {
+        "label": "(32) 2102-3784",
+        "digits": "553221023784"
+      }
+    ],
+    "emails": [
+      "ceua.propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 103,
+    "setor": "COMITÊ DE ÉTICA EM PESQUISA HUMANA",
+    "subsetor": "Horário de atendimento: Segunda à Quinta: 08:00 às 12:00, 13:00 às 18:00 Sexta: 08:00 às 12:00 13:00 às 17:00",
+    "site": "https://www2.ufjf.br/comitedeetica",
+    "telefones": [
+      {
+        "label": "(32) 2102-3788",
+        "digits": "553221023788"
+      }
+    ],
+    "emails": [
+      "cep.propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 104,
+    "setor": "COMUNICAÇÃO – Faculdade de Comunicação Social (FACOM)",
+    "subsetor": "Curso Jornalismo",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "coordenacaojornalismo@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 105,
+    "setor": "COMUNICAÇÃO – Faculdade de Comunicação Social (FACOM)",
+    "subsetor": "Curso Rádio, Tv e Internet",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "coord.rtvi@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 106,
+    "setor": "COMUNICAÇÃO – Faculdade de Comunicação Social (FACOM)",
+    "subsetor": "Para assuntos acadêmicos dos cursos de Graduação: Secretaria das Coordenações de Graduação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3609",
+        "digits": "553221023609"
+      }
+    ],
+    "emails": [
+      "secretaria.graduacaofacom@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 107,
+    "setor": "COMUNICAÇÃO – Faculdade de Comunicação Social (FACOM)",
+    "subsetor": "Para assuntos administrativos: Secretaria Geral",
+    "site": "https://www.ufjf.br/facom",
+    "telefones": [
+      {
+        "label": "(32) 2102-3601",
+        "digits": "553221023601"
+      }
+    ],
+    "emails": [
+      "secretaria.facom@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 108,
+    "setor": "COMUNICAÇÃO – Faculdade de Comunicação Social (FACOM)",
+    "subsetor": "Programa de Pós-Graduação em Comunicação – PPGCOM",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3602",
+        "digits": "553221023602"
+      },
+      {
+        "label": "(32) 2102-3616",
+        "digits": "553221023616"
+      }
+    ],
+    "emails": [
+      "secretariappg.facom@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 109,
+    "setor": "COMUNICAÇÃO – Faculdade de Comunicação Social (FACOM)",
+    "subsetor": "Seção Técnica de Apoio ao Ensino, Pesquisa e Extensão – SETA",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3612",
+        "digits": "553221023612"
+      }
+    ],
+    "emails": [
+      "logistica.facom@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 110,
+    "setor": "CONSU – Conselho Superior da Universidade Federal de Juiz de Fora (Consu/UFJF)",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/consu",
+    "telefones": [
+      {
+        "label": "(32) 2102-3904",
+        "digits": "553221023904"
+      },
+      {
+        "label": "(32) 2102-3909",
+        "digits": "553221023909"
+      }
+    ],
+    "emails": [
+      "secretariageral.reitoria@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 111,
+    "setor": "COPESE – Coordenação Geral de Processos Seletivos",
+    "subsetor": "Secretaria Geral",
+    "site": "https://www.ufjf.br/copese",
+    "telefones": [
+      {
+        "label": "(32) 2102-3738",
+        "digits": "553221023738"
+      },
+      {
+        "label": "(32) 2102-3755",
+        "digits": "553221023755"
+      }
+    ],
+    "emails": [
+      "copese@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 112,
+    "setor": "CORAL DA UFJF",
+    "subsetor": "Contato geral",
+    "site": "https://www2.ufjf.br/forumdacultura/coral/",
+    "telefones": [
+      {
+        "label": "(32) 2102-6305",
+        "digits": "553221026305"
+      }
+    ],
+    "emails": [
+      "coral@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 113,
+    "setor": "CRITT/PROINOVA",
+    "subsetor": "Administrativo e Financeiro",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3435",
+        "digits": "553221023435"
+      }
+    ],
+    "emails": [
+      "af.critt@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 114,
+    "setor": "CRITT/PROINOVA",
+    "subsetor": "Comunicação e Marketing",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3435",
+        "digits": "553221023435"
+      }
+    ],
+    "emails": [
+      "com.critt@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 115,
+    "setor": "CRITT/PROINOVA",
+    "subsetor": "Empreendedorismo/Coworking",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3435",
+        "digits": "553221023435"
+      }
+    ],
+    "emails": [
+      "emp.critt@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 116,
+    "setor": "CRITT/PROINOVA",
+    "subsetor": "GABINETE DO PRÓ-REITOR",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3435",
+        "digits": "553221023435"
+      }
+    ],
+    "emails": [
+      "proinova@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 117,
+    "setor": "CRITT/PROINOVA",
+    "subsetor": "Geral",
+    "site": "https://www2.ufjf.br/critt",
+    "telefones": [
+      {
+        "label": "(32) 2102-3435",
+        "digits": "553221023435"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 118,
+    "setor": "CRITT/PROINOVA",
+    "subsetor": "Gestão de Pessoas",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3435",
+        "digits": "553221023435"
+      }
+    ],
+    "emails": [
+      "pessoas.critt@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 119,
+    "setor": "CRITT/PROINOVA",
+    "subsetor": "Núcleo de Inovação Tecnológica",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3435",
+        "digits": "553221023435"
+      }
+    ],
+    "emails": [
+      "att.critt@ufjf.br",
+      "pc.critt@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 120,
+    "setor": "CRITT/PROINOVA",
+    "subsetor": "Parque Tecnológico",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3435",
+        "digits": "553221023435"
+      }
+    ],
+    "emails": [
+      "partecjf@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 121,
+    "setor": "CRITT/PROINOVA",
+    "subsetor": "Planejamento e Gestão",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3435",
+        "digits": "553221023435"
+      }
+    ],
+    "emails": [
+      "planejamento.critt@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 122,
+    "setor": "CRITT/PROINOVA",
+    "subsetor": "Recepção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3435",
+        "digits": "553221023435"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 123,
+    "setor": "CRITT/PROINOVA",
+    "subsetor": "Secretaria da Direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3435",
+        "digits": "553221023435"
+      }
+    ],
+    "emails": [
+      "proinova@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 124,
+    "setor": "CRITT/PROINOVA",
+    "subsetor": "Tecnologia da Informação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3435",
+        "digits": "553221023435"
+      }
+    ],
+    "emails": [
+      "sti.critt@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 125,
+    "setor": "CRITT/PROINOVA",
+    "subsetor": "TREINAMENTO",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3435",
+        "digits": "553221023435"
+      }
+    ],
+    "emails": [
+      "treina.critt@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 126,
+    "setor": "CRITT/PROINOVA Condomínio de Empresas",
+    "subsetor": "Robotitech",
+    "site": "https://www.robotictech.com.br/",
+    "telefones": [
+      {
+        "label": "(32) 98811-8197",
+        "digits": "5532988118197"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 127,
+    "setor": "CRITT/PROINOVA Condomínio de Empresas",
+    "subsetor": "TC Projetos",
+    "site": "https://www.tecnocadgroup.com/",
+    "telefones": [
+      {
+        "label": "(31) 3268-1400",
+        "digits": "553132681400"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 128,
+    "setor": "CRITT/PROINOVA Condomínio de Empresas",
+    "subsetor": "Zahir Marketing",
+    "site": "https://zahirmarketing.com.br/",
+    "telefones": [
+      {
+        "label": "55329993115",
+        "digits": "55329993115"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 129,
+    "setor": "CRITT/PROINOVA EMPRESAS INCUBADAS",
+    "subsetor": "Accutis",
+    "site": "https://acuttis.com.br/",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 130,
+    "setor": "CRITT/PROINOVA EMPRESAS INCUBADAS",
+    "subsetor": "Arch Hub",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 98887-1187",
+        "digits": "5532988871187"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 131,
+    "setor": "CRITT/PROINOVA EMPRESAS INCUBADAS",
+    "subsetor": "Bem melhor",
+    "site": "https://www.bemmelhor.com.br/",
+    "telefones": [
+      {
+        "label": "(32) 3211-0536",
+        "digits": "553232110536"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 132,
+    "setor": "CRITT/PROINOVA EMPRESAS INCUBADAS",
+    "subsetor": "CODI ACADEMY",
+    "site": "https://codiacademy.com",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 133,
+    "setor": "CRITT/PROINOVA EMPRESAS INCUBADAS",
+    "subsetor": "Direito Dela",
+    "site": "https://direitodela.com.br",
+    "telefones": [],
+    "emails": [
+      "contato@direitodela.com.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 134,
+    "setor": "CRITT/PROINOVA EMPRESAS INCUBADAS",
+    "subsetor": "Gest Empresarial",
+    "site": "https://www.gestempresarial.com.br/",
+    "telefones": [
+      {
+        "label": "55328463070",
+        "digits": "55328463070"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 135,
+    "setor": "CRITT/PROINOVA EMPRESAS INCUBADAS",
+    "subsetor": "JF Tecnologia",
+    "site": "https://jfma.com.br",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 136,
+    "setor": "CRITT/PROINOVA EMPRESAS INCUBADAS",
+    "subsetor": "Jurista.com",
+    "site": "https://www.juristta.com/",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 137,
+    "setor": "CRITT/PROINOVA EMPRESAS INCUBADAS",
+    "subsetor": "Licitei",
+    "site": "https://app.licitei.co/",
+    "telefones": [
+      {
+        "label": "(32) 3017-1537",
+        "digits": "553230171537"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 138,
+    "setor": "CRITT/PROINOVA EMPRESAS INCUBADAS",
+    "subsetor": "Mais controle",
+    "site": "https://maiscontroleerp.com.br/",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 139,
+    "setor": "CRITT/PROINOVA EMPRESAS INCUBADAS EMPRESAS INCUBADAS",
+    "subsetor": "Matt Zero",
+    "site": "https://4matt.com.br/",
+    "telefones": [
+      {
+        "label": "(11) 3042-0223",
+        "digits": "551130420223"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 140,
+    "setor": "DIREITO",
+    "subsetor": "Biblioteca",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3505",
+        "digits": "553221023505"
+      }
+    ],
+    "emails": [
+      "biblioteca.direito@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 141,
+    "setor": "DIREITO",
+    "subsetor": "Coordenação do Curso Diurno",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3515",
+        "digits": "553221023515"
+      }
+    ],
+    "emails": [
+      "coord.direitodiurno@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 142,
+    "setor": "DIREITO",
+    "subsetor": "Coordenação do Curso Noturno",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3515",
+        "digits": "553221023515"
+      }
+    ],
+    "emails": [
+      "coordn.direito@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 143,
+    "setor": "DIREITO",
+    "subsetor": "Direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3500",
+        "digits": "553221023500"
+      },
+      {
+        "label": "(32) 2102-3501",
+        "digits": "553221023501"
+      }
+    ],
+    "emails": [
+      "direcao.direito@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 144,
+    "setor": "DIREITO",
+    "subsetor": "Núcleo de Práticas Jurídicas (Escritório Escola)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6324",
+        "digits": "553221026324"
+      },
+      {
+        "label": "(32) 2102-6325",
+        "digits": "553221026325"
+      }
+    ],
+    "emails": [
+      "npj@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 145,
+    "setor": "DIREITO",
+    "subsetor": "Portal Jurídico da Biblioteca da Faculdade de Direito",
+    "site": "https://www.portaljuridicobrasil.com.br",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 146,
+    "setor": "DIREITO",
+    "subsetor": "Secretaria da Graduação",
+    "site": "https://www.ufjf.br/direito",
+    "telefones": [
+      {
+        "label": "(32) 2102-3501",
+        "digits": "553221023501"
+      }
+    ],
+    "emails": [
+      "secretaria.direito@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 147,
+    "setor": "DIREITO",
+    "subsetor": "Secretaria da Pós-Graduação Lato Sensu em Segurança Pública e Cidadania",
+    "site": "https://www.ufjf.br/ppgdireito",
+    "telefones": [
+      {
+        "label": "(32) 2102-3515",
+        "digits": "553221023515"
+      }
+    ],
+    "emails": [
+      "pos.seguranca.ufjf@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 148,
+    "setor": "DIREITO",
+    "subsetor": "Secretaria da Pós Graduação Stricto Sensu",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3512",
+        "digits": "553221023512"
+      }
+    ],
+    "emails": [
+      "ppg.direito@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 149,
+    "setor": "DIRETORIA DE AÇÕES AFIRMATIVAS – DIAAF",
+    "subsetor": "Intérpretes de Libras",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3781",
+        "digits": "553221023781"
+      }
+    ],
+    "emails": [
+      "interpretesdelibrasufjf@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 150,
+    "setor": "DIRETORIA DE AÇÕES AFIRMATIVAS – DIAAF",
+    "subsetor": "Núcleo de Apoio à Inclusão",
+    "site": "https://www.ufjf.br/nai",
+    "telefones": [
+      {
+        "label": "(32) 2102-3944",
+        "digits": "553221023944"
+      }
+    ],
+    "emails": [
+      "nucleo.nai@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 151,
+    "setor": "DIRETORIA DE AÇÕES AFIRMATIVAS – DIAAF",
+    "subsetor": "Ouvidoria Especializada em Ações Afirmativas",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3380",
+        "digits": "553221023380"
+      }
+    ],
+    "emails": [
+      "ouvidoriaespecializada.diaaf@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 152,
+    "setor": "DIRETORIA DE AÇÕES AFIRMATIVAS – DIAAF",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/diaaf",
+    "telefones": [
+      {
+        "label": "(32) 2102-6919",
+        "digits": "553221026919"
+      }
+    ],
+    "emails": [
+      "acoesafirmativas@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 153,
+    "setor": "DIRETORIA DE AVALIAÇÃO INSTITUCIONAL",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/diavi",
+    "telefones": [
+      {
+        "label": "(32) 2102-3915",
+        "digits": "553221023915"
+      }
+    ],
+    "emails": [
+      "secretaria.avaliacao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 154,
+    "setor": "DIRETORIA DE IMAGEM INSTITUCIONAL",
+    "subsetor": "Agendamento de Visitas",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "visitas@comunicacao.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 155,
+    "setor": "DIRETORIA DE IMAGEM INSTITUCIONAL",
+    "subsetor": "Cerimonial",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3966",
+        "digits": "553221023966"
+      }
+    ],
+    "emails": [
+      "cerimonial@ufjf.br",
+      "equipecerimonial@comunicacao.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 156,
+    "setor": "DIRETORIA DE IMAGEM INSTITUCIONAL",
+    "subsetor": "Criação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3969",
+        "digits": "553221023969"
+      }
+    ],
+    "emails": [
+      "design@comunicacao.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 157,
+    "setor": "DIRETORIA DE IMAGEM INSTITUCIONAL",
+    "subsetor": "Gestão de Redes Sociais",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3969",
+        "digits": "553221023969"
+      }
+    ],
+    "emails": [
+      "redes@secom.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 158,
+    "setor": "DIRETORIA DE IMAGEM INSTITUCIONAL",
+    "subsetor": "Imprensa",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3970",
+        "digits": "553221023970"
+      }
+    ],
+    "emails": [
+      "imprensa.dci@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 159,
+    "setor": "DIRETORIA DE IMAGEM INSTITUCIONAL",
+    "subsetor": "Secretaria",
+    "site": "https://www2.ufjf.br/noticias/imprensa",
+    "telefones": [
+      {
+        "label": "(32) 2102-3968",
+        "digits": "553221023968"
+      }
+    ],
+    "emails": [
+      "imagem@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 160,
+    "setor": "DIRETORIA DE RELAÇÕES INTERNACIONAIS – DRI",
+    "subsetor": "Certificação de documentos",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3947",
+        "digits": "553221023947"
+      }
+    ],
+    "emails": [
+      "internationaloffice@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 161,
+    "setor": "DIRETORIA DE RELAÇÕES INTERNACIONAIS – DRI",
+    "subsetor": "Ciência sem Fronteiras",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3947",
+        "digits": "553221023947"
+      }
+    ],
+    "emails": [
+      "internationaloffice@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 162,
+    "setor": "DIRETORIA DE RELAÇÕES INTERNACIONAIS – DRI",
+    "subsetor": "Global July Program",
+    "site": "https://www2.ufjf.br/globaljuly",
+    "telefones": [
+      {
+        "label": "(32) 2102-3389",
+        "digits": "553221023389"
+      }
+    ],
+    "emails": [
+      "globaljuly@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 163,
+    "setor": "DIRETORIA DE RELAÇÕES INTERNACIONAIS – DRI",
+    "subsetor": "Idiomas sem Fronteiras",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6929",
+        "digits": "553221026929"
+      }
+    ],
+    "emails": [
+      "isf@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 164,
+    "setor": "DIRETORIA DE RELAÇÕES INTERNACIONAIS – DRI",
+    "subsetor": "Incomimg e Acordos",
+    "site": "https://www2.ufjf.br/internationaloffice",
+    "telefones": [
+      {
+        "label": "(32) 2102-3389",
+        "digits": "553221023389"
+      }
+    ],
+    "emails": [
+      "internationaloffice@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 165,
+    "setor": "DIRETORIA DE RELAÇÕES INTERNACIONAIS – DRI",
+    "subsetor": "Intercâmbio",
+    "site": "https://www2.ufjf.br/internationaloffice",
+    "telefones": [
+      {
+        "label": "(32) 2102-3947",
+        "digits": "553221023947"
+      }
+    ],
+    "emails": [
+      "intercambio.dri@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 166,
+    "setor": "DIRETORIA DE RELAÇÕES INTERNACIONAIS – DRI",
+    "subsetor": "Núcleo de Apoio ao Intercâmbio (Napi)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3389",
+        "digits": "553221023389"
+      }
+    ],
+    "emails": [
+      "napi.dri@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 167,
+    "setor": "DIRETORIA DE RELAÇÕES INTERNACIONAIS – DRI",
+    "subsetor": "PEC-G e PECPG (O Programa de Estudantes-Convênio de Graduação e de Pós-graduação)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3389",
+        "digits": "553221023389"
+      },
+      {
+        "label": "(32) 2102-6929",
+        "digits": "553221026929"
+      }
+    ],
+    "emails": [
+      "pec.dri@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 168,
+    "setor": "DIRETORIA DE RELAÇÕES INTERNACIONAIS – DRI",
+    "subsetor": "Secretaria Executiva",
+    "site": "https://www.ufjf.br/internationaloffice",
+    "telefones": [
+      {
+        "label": "(32) 2102-3947",
+        "digits": "553221023947"
+      }
+    ],
+    "emails": [
+      "internationaloffice@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 169,
+    "setor": "DIRETORIA DE SUSTENTABILIDADE",
+    "subsetor": "Coordenação de Sustentabilidade e Patrimônio",
+    "site": "https://www2.ufjf.br/sustentabilidade/",
+    "telefones": [
+      {
+        "label": "(32) 2102-6377",
+        "digits": "553221026377"
+      }
+    ],
+    "emails": [
+      "sustentabilidade@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 170,
+    "setor": "DIRETORIA DE SUSTENTABILIDADE",
+    "subsetor": "Gerência de Estoque (Almoxarifado Central)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6490",
+        "digits": "553221026490"
+      }
+    ],
+    "emails": [
+      "almoxarifado.central@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 171,
+    "setor": "DIRETORIA DE SUSTENTABILIDADE",
+    "subsetor": "Gerência de Patrimônio",
+    "site": "https://www2.ufjf.br/proinfra/patrimonio",
+    "telefones": [
+      {
+        "label": "(32) 2102-3451",
+        "digits": "553221023451"
+      }
+    ],
+    "emails": [
+      "gerencia.patrimonio@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 172,
+    "setor": "ECONOMIA",
+    "subsetor": "Biblioteca da Economia",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "biblioteca.economia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 173,
+    "setor": "ECONOMIA",
+    "subsetor": "Coordenação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3555",
+        "digits": "553221023555"
+      }
+    ],
+    "emails": [
+      "coord.economia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 174,
+    "setor": "ECONOMIA",
+    "subsetor": "Direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3540",
+        "digits": "553221023540"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 175,
+    "setor": "ECONOMIA",
+    "subsetor": "Programa de Pós-graduação em Economia/UFJF",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3543",
+        "digits": "553221023543"
+      },
+      {
+        "label": "(32) 2102-3554",
+        "digits": "553221023554"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 176,
+    "setor": "ECONOMIA",
+    "subsetor": "Secretaria da Graduação",
+    "site": "https://www.ufjf.br/economia",
+    "telefones": [
+      {
+        "label": "(32) 2102-3541",
+        "digits": "553221023541"
+      },
+      {
+        "label": "(32) 2102-3542",
+        "digits": "553221023542"
+      }
+    ],
+    "emails": [
+      "secretaria.eco@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 177,
+    "setor": "EDUCAÇÃO",
+    "subsetor": "Biblioteca da Educação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3664",
+        "digits": "553221023664"
+      }
+    ],
+    "emails": [
+      "biblioteca.educacao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 178,
+    "setor": "EDUCAÇÃO",
+    "subsetor": "Departamento de Educação",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "depto.edu@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 179,
+    "setor": "EDUCAÇÃO",
+    "subsetor": "Programa de Pós-Graduação em Educação",
+    "site": "https://www2.ufjf.br/ppge",
+    "telefones": [
+      {
+        "label": "(32) 2102-3665",
+        "digits": "553221023665"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 180,
+    "setor": "EDUCAÇÃO",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/faculdadedeeducacao",
+    "telefones": [
+      {
+        "label": "(32) 2102-3650",
+        "digits": "553221023650"
+      }
+    ],
+    "emails": [
+      "secretaria.faced@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 181,
+    "setor": "EDUCAÇÃO FÍSICA",
+    "subsetor": "Coordenação de Graduação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3284",
+        "digits": "553221023284"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 182,
+    "setor": "EDUCAÇÃO FÍSICA",
+    "subsetor": "Coordenação de Pós-Graduação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3291",
+        "digits": "553221023291"
+      }
+    ],
+    "emails": [
+      "especializacao.faefid@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 183,
+    "setor": "EDUCAÇÃO FÍSICA",
+    "subsetor": "Direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3280",
+        "digits": "553221023280"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 184,
+    "setor": "EDUCAÇÃO FÍSICA",
+    "subsetor": "NGIME – Núcleo de Pesquisa em Inclusão, Movimento e Ensino",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3293",
+        "digits": "553221023293"
+      },
+      {
+        "label": "(32) 2102-6362",
+        "digits": "553221026362"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 185,
+    "setor": "EDUCAÇÃO FÍSICA",
+    "subsetor": "Sala de Apoio à Infraestrutura",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3286",
+        "digits": "553221023286"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 186,
+    "setor": "EDUCAÇÃO FÍSICA",
+    "subsetor": "Secretaria FAEFID 1",
+    "site": "https://www.ufjf.br/faefid",
+    "telefones": [
+      {
+        "label": "(32) 2102-3280",
+        "digits": "553221023280"
+      }
+    ],
+    "emails": [
+      "secretariaacademica.faefid@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 187,
+    "setor": "EDUCAÇÃO FÍSICA",
+    "subsetor": "Secretaria FAEFID 2",
+    "site": "https://www.ufjf.br/faefid",
+    "telefones": [
+      {
+        "label": "(32) 2102-3290",
+        "digits": "553221023290"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 188,
+    "setor": "EMPRESAS TERCEIRIZADAS (prestadoras de serviços à UFJF)",
+    "subsetor": "Planejar Terceirização e Serviços",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3727",
+        "digits": "553221023727"
+      }
+    ],
+    "emails": [
+      "prepostoufjf@planrj.com.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 189,
+    "setor": "ENFERMAGEM – Faculdade de Enfermagem (Facenf/UFJF)",
+    "subsetor": "Biblioteca da Faculdade de Enfermagemca",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3821",
+        "digits": "553221023821"
+      }
+    ],
+    "emails": [
+      "biblioteca.enfermagem@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 190,
+    "setor": "ENFERMAGEM – Faculdade de Enfermagem (Facenf/UFJF)",
+    "subsetor": "Coordenação do Curso",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3821",
+        "digits": "553221023821"
+      }
+    ],
+    "emails": [
+      "coord.enfermagem@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 191,
+    "setor": "ENFERMAGEM – Faculdade de Enfermagem (Facenf/UFJF)",
+    "subsetor": "Departamento de Enfermagem Aplicada",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3821",
+        "digits": "553221023821"
+      }
+    ],
+    "emails": [
+      "eap.enfermagem@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 192,
+    "setor": "ENFERMAGEM – Faculdade de Enfermagem (Facenf/UFJF)",
+    "subsetor": "Departamento de Enfermagem Básica",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3821",
+        "digits": "553221023821"
+      }
+    ],
+    "emails": [
+      "eba.enfermagem@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 193,
+    "setor": "ENFERMAGEM – Faculdade de Enfermagem (Facenf/UFJF)",
+    "subsetor": "Departamento Materno-Infantil e Saúde Pública",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3821",
+        "digits": "553221023821"
+      }
+    ],
+    "emails": [
+      "emp.enfermagem@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 194,
+    "setor": "ENFERMAGEM – Faculdade de Enfermagem (Facenf/UFJF)",
+    "subsetor": "Programa de Pós Graduação em Enfermagem",
+    "site": "https://www2.ufjf.br/pgenfermagem",
+    "telefones": [
+      {
+        "label": "(32) 2102-3821",
+        "digits": "553221023821"
+      }
+    ],
+    "emails": [
+      "mestrado.enfermagem@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 195,
+    "setor": "ENFERMAGEM – Faculdade de Enfermagem (Facenf/UFJF)",
+    "subsetor": "Secretaria",
+    "site": "https://www2.ufjf.br/enfermagem",
+    "telefones": [
+      {
+        "label": "(32) 2102-3821",
+        "digits": "553221023821"
+      }
+    ],
+    "emails": [
+      "secretaria.enfermagem@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 196,
+    "setor": "ENGENHARIA",
+    "subsetor": "Biblioteca de Exatas",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3404",
+        "digits": "553221023404"
+      }
+    ],
+    "emails": [
+      "biblioteca@ice.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 197,
+    "setor": "ENGENHARIA",
+    "subsetor": "Coordenação Engenharia Ambiental e Sanitária",
+    "site": "https://www2.ufjf.br/engsanitariaeambiental/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3429",
+        "digits": "553221023429"
+      }
+    ],
+    "emails": [
+      "coord.eas@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 198,
+    "setor": "ENGENHARIA",
+    "subsetor": "Coordenação Engenharia de Produção",
+    "site": "https://www2.ufjf.br/engenhariadeproducao/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3416",
+        "digits": "553221023416"
+      }
+    ],
+    "emails": [
+      "coord.producao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 199,
+    "setor": "ENGENHARIA",
+    "subsetor": "Coordenação Mestrado e Doutorado em Engenharia Elétrica",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3442",
+        "digits": "553221023442"
+      }
+    ],
+    "emails": [
+      "ppee@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 200,
+    "setor": "ENGENHARIA",
+    "subsetor": "Coordenação Mestrado e Doutorado em Modelagem Computacional",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3481",
+        "digits": "553221023481"
+      }
+    ],
+    "emails": [
+      "ppg.modelagemcomputacional@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 201,
+    "setor": "ENGENHARIA",
+    "subsetor": "Coordenação Mestrado em Ambiente Construído",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6465",
+        "digits": "553221026465"
+      }
+    ],
+    "emails": [
+      "mestrado.aconstruido@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 202,
+    "setor": "ENGENHARIA",
+    "subsetor": "Coordenação Mestrado em Engenharia Civil",
+    "site": "https://www2.ufjf.br/pec/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3456",
+        "digits": "553221023456"
+      }
+    ],
+    "emails": [
+      "ppg.civil@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 203,
+    "setor": "ENGENHARIA",
+    "subsetor": "DA de Engenharia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3454",
+        "digits": "553221023454"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 204,
+    "setor": "ENGENHARIA",
+    "subsetor": "Departamento de Circuitos Elétricos",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "depto.circuitos@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 205,
+    "setor": "ENGENHARIA",
+    "subsetor": "Departamento de Engenharia de Produção e Mecânica",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 206,
+    "setor": "ENGENHARIA",
+    "subsetor": "Departamento de Engenharia Sanitária e Ambiental",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "depto.esa@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 207,
+    "setor": "ENGENHARIA",
+    "subsetor": "Departamento de Estruturas",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "depto.estruturas@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 208,
+    "setor": "ENGENHARIA",
+    "subsetor": "Departamento de Mecânica Aplicada e Computacional",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "depto.mac@ufjf.edu.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 209,
+    "setor": "ENGENHARIA",
+    "subsetor": "Direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3400",
+        "digits": "553221023400"
+      }
+    ],
+    "emails": [
+      "direcao.engenharia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 210,
+    "setor": "ENGENHARIA",
+    "subsetor": "Manutenção de elevadores",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3794",
+        "digits": "553221023794"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 211,
+    "setor": "ENGENHARIA",
+    "subsetor": "Museu Dinâmico de Ciência e Tecnologia",
+    "site": "https://www2.ufjf.br/museudinamico/",
+    "telefones": [
+      {
+        "label": "(32) 2102-6340",
+        "digits": "553221026340"
+      }
+    ],
+    "emails": [
+      "mdct.faceng@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 212,
+    "setor": "ENGENHARIA",
+    "subsetor": "NASFE – Núcleo de Atendimento Social da Faculdade de Engenharia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3475",
+        "digits": "553221023475"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 213,
+    "setor": "ENGENHARIA",
+    "subsetor": "Sala de Apoio Itamar Franco",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3598",
+        "digits": "553221023598"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 214,
+    "setor": "ENGENHARIA",
+    "subsetor": "Secretaria",
+    "site": "https://www2.ufjf.br/engenharia/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3402",
+        "digits": "553221023402"
+      }
+    ],
+    "emails": [
+      "secretaria.engenharia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 215,
+    "setor": "ENGENHARIA",
+    "subsetor": "Segmentos estudantis",
+    "site": "https://www2.ufjf.br/engenharia/ensino/atividades-extracurriculares",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 216,
+    "setor": "ENGENHARIA AMBIENTAL E SANITÁRIA",
+    "subsetor": "Coordenação do Curso",
+    "site": "https://www2.ufjf.br/engsanitariaeambiental",
+    "telefones": [
+      {
+        "label": "(32) 2102-3429",
+        "digits": "553221023429"
+      }
+    ],
+    "emails": [
+      "coord.eas@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 217,
+    "setor": "ENGENHARIA CIVIL",
+    "subsetor": "Chefia de Departamento",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3407",
+        "digits": "553221023407"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 218,
+    "setor": "ENGENHARIA CIVIL",
+    "subsetor": "Coordenação do Curso/Secretaria",
+    "site": "https://www.ufjf.br/engenhariacivil",
+    "telefones": [
+      {
+        "label": "(32) 2102-3406",
+        "digits": "553221023406"
+      }
+    ],
+    "emails": [
+      "coordcivil.engenharia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 219,
+    "setor": "ENGENHARIA ELÉTRICA",
+    "subsetor": "Departamento de Circuitos Elétricos",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3408",
+        "digits": "553221023408"
+      }
+    ],
+    "emails": [
+      "depto.circuitos@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 220,
+    "setor": "ENGENHARIA ELÉTRICA",
+    "subsetor": "Mestrado e Doutorado em Engenharia Elétrica",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3442",
+        "digits": "553221023442"
+      }
+    ],
+    "emails": [
+      "ppee@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 221,
+    "setor": "ENGENHARIA ELÉTRICA",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/engenhariaeletrica",
+    "telefones": [
+      {
+        "label": "(32) 2102-3444",
+        "digits": "553221023444"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 222,
+    "setor": "ESCOLA DE ARTES PRÓ-MÚSICA",
+    "subsetor": "Contato geral",
+    "site": "https://www2.ufjf.br/cecom/",
+    "telefones": [
+      {
+        "label": "(32) 2102-6339",
+        "digits": "553221026339"
+      }
+    ],
+    "emails": [
+      "administracao.mam@ufjf.edu.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 223,
+    "setor": "FARMÁCIA",
+    "subsetor": "Biblioteca da Farmácia e Odontologia",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "biblioteca.odontologia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 224,
+    "setor": "FARMÁCIA",
+    "subsetor": "Coordenação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3803",
+        "digits": "553221023803"
+      }
+    ],
+    "emails": [
+      "coord.farmacia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 225,
+    "setor": "FARMÁCIA",
+    "subsetor": "Direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3801",
+        "digits": "553221023801"
+      }
+    ],
+    "emails": [
+      "diretoria.farmacia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 226,
+    "setor": "FARMÁCIA",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/farmacia",
+    "telefones": [
+      {
+        "label": "(32) 2102-3802",
+        "digits": "553221023802"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 227,
+    "setor": "FILOSOFIA",
+    "subsetor": "Chefia de Departamento",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "depto.filosofia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 228,
+    "setor": "FILOSOFIA",
+    "subsetor": "Coordenação do Curso",
+    "site": "https://www.ufjf.br/filosofia",
+    "telefones": [
+      {
+        "label": "(32) 2102-3107",
+        "digits": "553221023107"
+      }
+    ],
+    "emails": [
+      "coord.filosofia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 229,
+    "setor": "FÍSICA",
+    "subsetor": "Coordenação do curso de Licenciatura em Física a Distância",
+    "site": "https://www.fisica.ufjf.br/ead",
+    "telefones": [
+      {
+        "label": "(32) 2102-3366",
+        "digits": "553221023366"
+      }
+    ],
+    "emails": [
+      "fisicaead@ice.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 230,
+    "setor": "FÍSICA",
+    "subsetor": "Coordenação do curso de Licenciatura em Física (noturno)",
+    "site": "https://www.ufjf.br/fisnoturno",
+    "telefones": [
+      {
+        "label": "(32) 2102-3316",
+        "digits": "553221023316"
+      }
+    ],
+    "emails": [
+      "fisnoturnoufjf@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 231,
+    "setor": "FÍSICA",
+    "subsetor": "Coordenação do Programa de Mestrado Nacional Profissional em Ensino de Física (MNPEF)",
+    "site": "https://www.ufjf.br/profis",
+    "telefones": [
+      {
+        "label": "(32) 2102-3307",
+        "digits": "553221023307"
+      }
+    ],
+    "emails": [
+      "profis@ice.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 232,
+    "setor": "FÍSICA",
+    "subsetor": "Coordenação do Programa de Pós-Graduação em Física (Mestrado e Doutorado)",
+    "site": "https://www.ufjf.br/ppgfisica",
+    "telefones": [
+      {
+        "label": "(32) 2102-3307",
+        "digits": "553221023307"
+      }
+    ],
+    "emails": [
+      "ppgfisica@ice.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 233,
+    "setor": "FÍSICA",
+    "subsetor": "Coordenação dos cursos de Bacharelado e Licenciatura em Física (diurnos)",
+    "site": "https://www.ufjf.br/fisdiurno",
+    "telefones": [
+      {
+        "label": "(32) 2102-3316",
+        "digits": "553221023316"
+      }
+    ],
+    "emails": [
+      "coord.fisicad@ice.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 234,
+    "setor": "FÍSICA",
+    "subsetor": "Laboratórios de Ensino de Física",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3331",
+        "digits": "553221023331"
+      }
+    ],
+    "emails": [
+      "labfisicaufjf@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 235,
+    "setor": "FÍSICA",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/fisica",
+    "telefones": [
+      {
+        "label": "(32) 2102-3307",
+        "digits": "553221023307"
+      },
+      {
+        "label": "(32) 2102-3312",
+        "digits": "553221023312"
+      }
+    ],
+    "emails": [
+      "secretaria.fisica@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 236,
+    "setor": "FISIOTERAPIA",
+    "subsetor": "Coordenação Graduação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3837",
+        "digits": "553221023837"
+      }
+    ],
+    "emails": [
+      "coord.fisioterapia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 237,
+    "setor": "FISIOTERAPIA",
+    "subsetor": "Coordenação Mestrado",
+    "site": "https://www2.ufjf.br/ppgcrdf",
+    "telefones": [
+      {
+        "label": "(32) 2102-3256",
+        "digits": "553221023256"
+      }
+    ],
+    "emails": [
+      "mestrado.fisioterapia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 238,
+    "setor": "FISIOTERAPIA",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/facfisio",
+    "telefones": [
+      {
+        "label": "(32) 2102-3843",
+        "digits": "553221023843"
+      }
+    ],
+    "emails": [
+      "secretaria.facfisio@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 239,
+    "setor": "FORUM DA CULTURA",
+    "subsetor": "Contato geral",
+    "site": "https://www.ufjf.br/forumdacultura",
+    "telefones": [
+      {
+        "label": "(32) 3215-3850",
+        "digits": "553232153850"
+      }
+    ],
+    "emails": [
+      "forumdacultura@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 240,
+    "setor": "GEOGRAFIA",
+    "subsetor": "Coordenação do Curso",
+    "site": "https://www.ufjf.br/geografia",
+    "telefones": [
+      {
+        "label": "(32) 2102-3192",
+        "digits": "553221023192"
+      }
+    ],
+    "emails": [
+      "coord.geografia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 241,
+    "setor": "HISTÓRIA",
+    "subsetor": "Coordenação do Curso",
+    "site": "https://www.ufjf.br/historia",
+    "telefones": [
+      {
+        "label": "(32) 2102-3109",
+        "digits": "553221023109"
+      }
+    ],
+    "emails": [
+      "coordenacao.historia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 242,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Ambulatório de Hepatologia e Gastroenterologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5302",
+        "digits": "553240095302"
+      },
+      {
+        "label": "(32) 4009-5310",
+        "digits": "553240095310"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 243,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Fisioterapia (Recepção)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5372",
+        "digits": "553240095372"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 244,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Gerência de ensino e Pesquisa - comitê de Ética em Presquisa (CEP)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "55329880201",
+        "digits": "55329880201"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 245,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Gerência de ensino e Pesquisa - HU Revista",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5408",
+        "digits": "553240095408"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 246,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Métodos Gráficos (Recepção)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5372",
+        "digits": "553240095372"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 247,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Nefrologia (Recepção)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5332",
+        "digits": "553240095332"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 248,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Ouvidoria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5344",
+        "digits": "553240095344"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 249,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Recepção Ambulatório (Cardiologia)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5435",
+        "digits": "553240095435"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 250,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Recepção Geral Ambulatório",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5401",
+        "digits": "553240095401"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 251,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Recepção Geral Ambulatório Bloco C(Saúde da Mulher, Doenças raras, CRIE, Ambulatório de Cuidados com a Pele e Ambulatório Multprofissional).",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5430",
+        "digits": "553240095430"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 252,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Unidade de comunicação Regional 24(UCR 24)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5393",
+        "digits": "553240095393"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 253,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Unidade de Endoscopia (Recepção)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5365",
+        "digits": "553240095365"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 254,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Unidade de Imagem da Mulher (Recepção)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5390",
+        "digits": "553240095390"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 255,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU",
+    "subsetor": "Unidade de Imagem Geral (Recepção)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5391",
+        "digits": "553240095391"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 256,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU SANTA CATARINA",
+    "subsetor": "Gerência de ensino e Pesquisa - Comissão de Residência Médica (COREME)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5167",
+        "digits": "553240095167"
+      }
+    ],
+    "emails": [
+      "coreme.hu-ufjf@ebserh.gov.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 257,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU SANTA CATARINA",
+    "subsetor": "PORTARIA",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5131",
+        "digits": "553240095131"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 258,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU SANTA CATARINA",
+    "subsetor": "RECEPÇÃO CAPS",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5400",
+        "digits": "553240095400"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 259,
+    "setor": "HOSPITAL UNIVERSITÁRIO – HU SANTA CATARINA",
+    "subsetor": "SECRETARIA",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-5159",
+        "digits": "553240095159"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 260,
+    "setor": "IF SUDESTE MG",
+    "subsetor": "Coordenação Geral de Assuntos e Registros Acadêmicos",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 4009-3003",
+        "digits": "553240093003"
+      }
+    ],
+    "emails": [
+      "cgara.jf@ifsudestemg.edu.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 261,
+    "setor": "IF SUDESTE MG",
+    "subsetor": "Demais setores",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 262,
+    "setor": "IF SUDESTE MG",
+    "subsetor": "Diretoria de Ensino",
+    "site": "https://www.ifsudestemg.edu.br",
+    "telefones": [
+      {
+        "label": "(32) 4009-3005",
+        "digits": "553240093005"
+      }
+    ],
+    "emails": [
+      "dde.jf@ifsudestemg.edu.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 263,
+    "setor": "IF SUDESTE MG",
+    "subsetor": "ENCCEJA",
+    "site": "https://www.ifsudestemg.edu.br/institucional/pro-reitorias/ensino/programas-e-projetos/encceja",
+    "telefones": [
+      {
+        "label": "(32) 4009-3003",
+        "digits": "553240093003"
+      }
+    ],
+    "emails": [
+      "secretaria.jf@ifsudestemg.edu.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 264,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Biblioteca do ICB",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3203",
+        "digits": "553221023203"
+      }
+    ],
+    "emails": [
+      "biblioteca.icb@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 265,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Bio-Ciclos",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 99113-1854",
+        "digits": "5532991131854"
+      },
+      {
+        "label": "(32) 99806-3917",
+        "digits": "5532998063917"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 266,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Coordenação do Curso de Ciências Biológicas",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3204",
+        "digits": "553221023204"
+      }
+    ],
+    "emails": [
+      "coord.biologia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 267,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Coordenação do Curso de Nutrição",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3229",
+        "digits": "553221023229"
+      }
+    ],
+    "emails": [
+      "coord.nutricao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 268,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Departamento de Anatomia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3205",
+        "digits": "553221023205"
+      }
+    ],
+    "emails": [
+      "depto.anatomia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 269,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Departamento de Biologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3206",
+        "digits": "553221023206"
+      },
+      {
+        "label": "(32) 2102-6302",
+        "digits": "553221026302"
+      }
+    ],
+    "emails": [
+      "depto.biologia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 270,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Departamento de Bioquímica",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3208",
+        "digits": "553221023208"
+      }
+    ],
+    "emails": [
+      "dep.bioquimica@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 271,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Departamento de Botânica",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3207",
+        "digits": "553221023207"
+      }
+    ],
+    "emails": [
+      "departamento.botanica@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 272,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Departamento de Farmacologia",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "depto.far@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 273,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Departamento de Fisiologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3211",
+        "digits": "553221023211"
+      }
+    ],
+    "emails": [
+      "depto.fsi@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 274,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Departamento de Morfologia/Histologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3212",
+        "digits": "553221023212"
+      }
+    ],
+    "emails": [
+      "depto.morfologia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 275,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Departamento de Nutrição",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3234",
+        "digits": "553221023234"
+      }
+    ],
+    "emails": [
+      "depto.nutricao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 276,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Departamento de Zoologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3218",
+        "digits": "553221023218"
+      }
+    ],
+    "emails": [
+      "zoologia@icb.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 277,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3200",
+        "digits": "553221023200"
+      }
+    ],
+    "emails": [
+      "direcao.icb@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 278,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "DPMI/Imunologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3214",
+        "digits": "553221023214"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 279,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "DPMI/Microbiologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3213",
+        "digits": "553221023213"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 280,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "DPMI/Parasitologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3219",
+        "digits": "553221023219"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 281,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Herbário",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3224",
+        "digits": "553221023224"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 282,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "IMUNOCET/CPCELL",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6320",
+        "digits": "553221026320"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 283,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Laboratório de Bioquímica",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3217",
+        "digits": "553221023217"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 284,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Laboratório de Farmacologia – Prof. Jorge",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3369",
+        "digits": "553221023369"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 285,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "LIP",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6371",
+        "digits": "553221026371"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 286,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Malacologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3221",
+        "digits": "553221023221"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 287,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Pós Graduação Ciências Biológicas – EAD",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6372",
+        "digits": "553221026372"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 288,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Pós-Graduação em Biodiversidade e Conservação da Natureza",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3223",
+        "digits": "553221023223"
+      }
+    ],
+    "emails": [
+      "ppg.biodiversidade@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 289,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Pós Graduação em Ecologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3227",
+        "digits": "553221023227"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 290,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "PPG Ciências Biológicas",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3220",
+        "digits": "553221023220"
+      }
+    ],
+    "emails": [
+      "ppg.cbio@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 291,
+    "setor": "INSTITUTO DE CIÊNCIAS BIOLÓGICAS – ICB",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/icb",
+    "telefones": [
+      {
+        "label": "(32) 2102-3201",
+        "digits": "553221023201"
+      },
+      {
+        "label": "(32) 2102-3202",
+        "digits": "553221023202"
+      },
+      {
+        "label": "(32) 2102-3216",
+        "digits": "553221023216"
+      }
+    ],
+    "emails": [
+      "secretaria.icb@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 292,
+    "setor": "INSTITUTO DE CIÊNCIAS EXATAS – ICE",
+    "subsetor": "Secretaria do Curso de Graduação em Ciências Exatas (Diurno)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3326",
+        "digits": "553221023326"
+      }
+    ],
+    "emails": [
+      "secretaria.estatistica@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 293,
+    "setor": "INSTITUTO DE CIÊNCIAS EXATAS – ICE",
+    "subsetor": "Secretaria do Departamento de Ciência da Computação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3311",
+        "digits": "553221023311"
+      }
+    ],
+    "emails": [
+      "coord.cienciasexatas@ice.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 294,
+    "setor": "INSTITUTO DE CIÊNCIAS EXATAS – ICE",
+    "subsetor": "Secretaria do Departamento de Estatística",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3306",
+        "digits": "553221023306"
+      }
+    ],
+    "emails": [
+      "secretaria.estatistica@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 295,
+    "setor": "INSTITUTO DE CIÊNCIAS EXATAS – ICE",
+    "subsetor": "Secretaria do Departamento de Física",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3307",
+        "digits": "553221023307"
+      }
+    ],
+    "emails": [
+      "secretaria.fisica@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 296,
+    "setor": "INSTITUTO DE CIÊNCIAS EXATAS – ICE",
+    "subsetor": "Secretaria do Departamento de Matemática",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3308",
+        "digits": "553221023308"
+      }
+    ],
+    "emails": [
+      "depto.mat@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 297,
+    "setor": "INSTITUTO DE CIÊNCIAS EXATAS – ICE",
+    "subsetor": "Secretaria do Departamento de Química",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3310",
+        "digits": "553221023310"
+      }
+    ],
+    "emails": [
+      "depto.quimica@ice.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 298,
+    "setor": "INSTITUTO DE CIÊNCIAS EXATAS – ICE",
+    "subsetor": "Secretaria do Instituto de Ciências Exatas – ICE",
+    "site": "https://www2.ufjf.br/ice",
+    "telefones": [
+      {
+        "label": "(32) 2102-3301",
+        "digits": "553221023301"
+      }
+    ],
+    "emails": [
+      "secretaria.ice@ice.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 299,
+    "setor": "INSTITUTO DE CIÊNCIAS EXATAS – ICE",
+    "subsetor": "Secretaria dos Cursos de Graduação em Computação (Diurno e Noturno), Estatística (Diurno), Física (Diurno e Noturno), Matemática (Diurno e Noturno), Sistemas de Informação (Noturno) e Química (Diurno e Noturno)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3316",
+        "digits": "553221023316"
+      }
+    ],
+    "emails": [
+      "coordenacoes.ice@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 300,
+    "setor": "INSTITUTO DE CIÊNCIAS HUMANAS – ICH",
+    "subsetor": "Secretaria",
+    "site": "https://www2.ufjf.br/ich",
+    "telefones": [
+      {
+        "label": "(32) 2102-3101",
+        "digits": "553221023101"
+      }
+    ],
+    "emails": [
+      "secretaria.ich@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 301,
+    "setor": "LETRAS",
+    "subsetor": "Biblioteca da Letras",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "biblioteca.letras@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 302,
+    "setor": "LETRAS",
+    "subsetor": "Biblioteca do ICH",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3111",
+        "digits": "553221023111"
+      }
+    ],
+    "emails": [
+      "biblioteca.ich@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 303,
+    "setor": "LETRAS",
+    "subsetor": "Coordenação do curso de Bacharelado em Letras",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "coord.letrasbacharelado@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 304,
+    "setor": "LETRAS",
+    "subsetor": "Coordenação do curso de Letras-Libras",
+    "site": "https://www.ufjf.br/letraslibras",
+    "telefones": [
+      {
+        "label": "(32) 2102-3126",
+        "digits": "553221023126"
+      }
+    ],
+    "emails": [
+      "coord.letraslibras@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 305,
+    "setor": "LETRAS",
+    "subsetor": "Coordenação do curso de Licenciatura em Letras – Integral",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3126",
+        "digits": "553221023126"
+      }
+    ],
+    "emails": [
+      "coord.letrasintegral@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 306,
+    "setor": "LETRAS",
+    "subsetor": "Coordenação do curso de Licenciatura em Letras – Noturno",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3126",
+        "digits": "553221023126"
+      }
+    ],
+    "emails": [
+      "coord.letrasnoturno@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 307,
+    "setor": "LETRAS",
+    "subsetor": "Direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3151",
+        "digits": "553221023151"
+      }
+    ],
+    "emails": [
+      "direcao.letras@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 308,
+    "setor": "LETRAS",
+    "subsetor": "Mestrado Profissional em Letras (ProfLetras)",
+    "site": "https://www.ufjf.br/profletras",
+    "telefones": [
+      {
+        "label": "(32) 2102-3112",
+        "digits": "553221023112"
+      }
+    ],
+    "emails": [
+      "mestrado.profletras@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 309,
+    "setor": "LETRAS",
+    "subsetor": "Programa de Pós-Graduação em Letras: Estudos Literários",
+    "site": "https://www2.ufjf.br/ppgletras",
+    "telefones": [
+      {
+        "label": "(32) 2102-3118",
+        "digits": "553221023118"
+      }
+    ],
+    "emails": [
+      "ppg.letras@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 310,
+    "setor": "LETRAS",
+    "subsetor": "Programa de Pós-Graduação em Linguísticas",
+    "site": "https://www2.ufjf.br/ppglinguistica",
+    "telefones": [
+      {
+        "label": "(32) 2102-3134",
+        "digits": "553221023134"
+      }
+    ],
+    "emails": [
+      "ppg.linguistica@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 311,
+    "setor": "LETRAS",
+    "subsetor": "Secretaria",
+    "site": "https://www2.ufjf.br/faclet",
+    "telefones": [
+      {
+        "label": "(32) 2102-3150",
+        "digits": "553221023150"
+      },
+      {
+        "label": "(32) 2102-3153",
+        "digits": "553221023153"
+      }
+    ],
+    "emails": [
+      "secretaria.letras@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 312,
+    "setor": "MATEMÁTICA",
+    "subsetor": "Chefia do Departamento de Matemática",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "chefia.dm@ice.ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 313,
+    "setor": "MATEMÁTICA",
+    "subsetor": "Coordenação da Graduação em Matemática diurno (modalidade licenciatura e bacharelado – códigos 65F/65AF/65FB/65FL)",
+    "site": "https://www2.ufjf.br/matematica",
+    "telefones": [
+      {
+        "label": "(32) 2102-3316",
+        "digits": "553221023316"
+      }
+    ],
+    "emails": [
+      "coord.matdiurno@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 314,
+    "setor": "MATEMÁTICA",
+    "subsetor": "Coordenação da Graduação em Matemática noturno (modalidade licenciatura – código 82A)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3316",
+        "digits": "553221023316"
+      }
+    ],
+    "emails": [
+      "ccmat.ufjf@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 315,
+    "setor": "MATEMÁTICA",
+    "subsetor": "Coordenação da Graduação em Matemátida EAD (modalidade licenciatura – código 62 – vários polos):",
+    "site": "https://www.cead.ufjf.br/curso/matematica",
+    "telefones": [
+      {
+        "label": "(32) 2102-3488",
+        "digits": "553221023488"
+      }
+    ],
+    "emails": [
+      "secretaria.limatematica.ead@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 316,
+    "setor": "MATEMÁTICA",
+    "subsetor": "Mestrado Acadêmico",
+    "site": "https://www.ufjf.br/mestradomatematica",
+    "telefones": [
+      {
+        "label": "(32) 2102-3328",
+        "digits": "553221023328"
+      },
+      {
+        "label": "(32) 2102-3308",
+        "digits": "553221023308"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 317,
+    "setor": "MATEMÁTICA",
+    "subsetor": "Mestrado Educação Matemática",
+    "site": "https://www.ufjf.br/mestradoedumat",
+    "telefones": [
+      {
+        "label": "(32) 2102-3342",
+        "digits": "553221023342"
+      },
+      {
+        "label": "(32) 2102-3308",
+        "digits": "553221023308"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 318,
+    "setor": "MATEMÁTICA",
+    "subsetor": "PROFMAT",
+    "site": "https://www.ufjf.br/profmat",
+    "telefones": [
+      {
+        "label": "(32) 2102-3339",
+        "digits": "553221023339"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 319,
+    "setor": "MATEMÁTICA",
+    "subsetor": "Secretaria",
+    "site": "https://www2.ufjf.br/mat",
+    "telefones": [
+      {
+        "label": "(32) 2102-3308",
+        "digits": "553221023308"
+      },
+      {
+        "label": "(32) 2102-3315",
+        "digits": "553221023315"
+      }
+    ],
+    "emails": [
+      "depto.mat@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 320,
+    "setor": "MEDICINA",
+    "subsetor": "Biblioteca da Medicina",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "biblioteca.medicina@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 321,
+    "setor": "MEDICINA",
+    "subsetor": "Comissão de Estágios da Medicina – COE",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6842",
+        "digits": "553221026842"
+      }
+    ],
+    "emails": [
+      "comissao.estagiosmedicina@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 322,
+    "setor": "MEDICINA",
+    "subsetor": "Coordenação de Curso",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3844",
+        "digits": "553221023844"
+      }
+    ],
+    "emails": [
+      "coord.medicina@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 323,
+    "setor": "MEDICINA",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/medicina",
+    "telefones": [
+      {
+        "label": "(32) 2102-3841",
+        "digits": "553221023841"
+      },
+      {
+        "label": "(32) 2102-3845",
+        "digits": "553221023845"
+      }
+    ],
+    "emails": [
+      "secretaria.medicina@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 324,
+    "setor": "MEDICINA VETERINÁRIA",
+    "subsetor": "Clínica Veterinária de Ensino",
+    "site": "https://www2.ufjf.br/clinicaveterinaria",
+    "telefones": [
+      {
+        "label": "(32) 2102-3592",
+        "digits": "553221023592"
+      }
+    ],
+    "emails": [
+      "clinica.veterinaria@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 325,
+    "setor": "MEDICINA VETERINÁRIA",
+    "subsetor": "Coordenação de Curso",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3590",
+        "digits": "553221023590"
+      }
+    ],
+    "emails": [
+      "coord.veterinaria@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 326,
+    "setor": "MEDICINA VETERINÁRIA",
+    "subsetor": "Estágio (COE)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3590",
+        "digits": "553221023590"
+      }
+    ],
+    "emails": [
+      "comissao.estagiovet@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 327,
+    "setor": "MEDICINA VETERINÁRIA",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/veterinaria",
+    "telefones": [
+      {
+        "label": "(32) 2102-6851",
+        "digits": "553221026851"
+      }
+    ],
+    "emails": [
+      "depto.veterinaria@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 328,
+    "setor": "MEMORIAL DA REPÚBLICA ITAMAR FRANCO",
+    "subsetor": "Agendamentos de visitas e propostas de ocupação do espaço (exposições, eventos, etc)",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "cultura.memorial@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 329,
+    "setor": "MEMORIAL DA REPÚBLICA ITAMAR FRANCO",
+    "subsetor": "Arquivo",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "arquivo.memorial@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 330,
+    "setor": "MEMORIAL DA REPÚBLICA ITAMAR FRANCO",
+    "subsetor": "Biblioteca",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "biblioteca.memorial@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 331,
+    "setor": "MEMORIAL DA REPÚBLICA ITAMAR FRANCO",
+    "subsetor": "Secretaria",
+    "site": "https://www.mrpitamarfranco.com.br",
+    "telefones": [
+      {
+        "label": "(32) 2102-3594",
+        "digits": "553221023594"
+      }
+    ],
+    "emails": [
+      "secretaria.memorial@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 332,
+    "setor": "MEMORIAL DA REPÚBLICA PRESIDENTE ITAMAR FRANCO",
+    "subsetor": "Contato geral",
+    "site": "https://mrpitamarfranco.com.br",
+    "telefones": [
+      {
+        "label": "(32) 3212-2078",
+        "digits": "553232122078"
+      }
+    ],
+    "emails": [
+      "secretaria.memorial@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 333,
+    "setor": "MUSEU DE ARQUEOLOGIA E ETNOLOGIA AMERICANA – MAEA",
+    "subsetor": "Contato geral",
+    "site": "https://www2.ufjf.br/procult/orgaos-executores/museu-de-arqueologia-e-etnologia-americana/",
+    "telefones": [
+      {
+        "label": "(32) 3211-7432",
+        "digits": "553232117432"
+      }
+    ],
+    "emails": [
+      "maea.ufjf@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 334,
+    "setor": "MUSEU DE ARTE MODERNA MURILO MENDES – MAMM",
+    "subsetor": "Biblioteca e Informação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3578",
+        "digits": "553221023578"
+      }
+    ],
+    "emails": [
+      "biblios.mam@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 335,
+    "setor": "MUSEU DE ARTE MODERNA MURILO MENDES – MAMM",
+    "subsetor": "Difusão Cultural e Museologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3583",
+        "digits": "553221023583"
+      }
+    ],
+    "emails": [
+      "museologia.mam@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 336,
+    "setor": "MUSEU DE ARTE MODERNA MURILO MENDES – MAMM",
+    "subsetor": "Direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3579",
+        "digits": "553221023579"
+      }
+    ],
+    "emails": [
+      "administracao.mam@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 337,
+    "setor": "MUSEU DE ARTE MODERNA MURILO MENDES – MAMM",
+    "subsetor": "Laboratório de Conservação e Restauração de Papel",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3580",
+        "digits": "553221023580"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 338,
+    "setor": "MUSEU DE ARTE MODERNA MURILO MENDES – MAMM",
+    "subsetor": "Laboratório de Conservação e Restauração de Pintura",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3581",
+        "digits": "553221023581"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 339,
+    "setor": "MUSEU DE ARTE MODERNA MURILO MENDES – MAMM",
+    "subsetor": "Recepção",
+    "site": "https://www.museudeartemurilomendes.com.br",
+    "telefones": [
+      {
+        "label": "(32) 2102-3582",
+        "digits": "553221023582"
+      }
+    ],
+    "emails": [
+      "administracao.mam@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 340,
+    "setor": "MUSEU DE ARTE MODERNA MURILO MENDES – MAMM",
+    "subsetor": "Secretaria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3584",
+        "digits": "553221023584"
+      }
+    ],
+    "emails": [
+      "administracao.mam@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 341,
+    "setor": "MUSEU DE ARTE MURILO MENDES – MAMM",
+    "subsetor": "Contato geral",
+    "site": "http://www.museudeartemurilomendes.com.br",
+    "telefones": [
+      {
+        "label": "(32) 3229-7651",
+        "digits": "553232297651"
+      }
+    ],
+    "emails": [
+      "administracao.mam@ufjf.edu.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 342,
+    "setor": "NAI – Núcleo de Apoio À Inclusão",
+    "subsetor": "Intérpretes de Libras",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3781",
+        "digits": "553221023781"
+      }
+    ],
+    "emails": [
+      "interpretesdelibrasufjf@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 343,
+    "setor": "NAI – Núcleo de Apoio À Inclusão",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/nai",
+    "telefones": [
+      {
+        "label": "(32) 2102-3944",
+        "digits": "553221023944"
+      }
+    ],
+    "emails": [
+      "nucleo.nai@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 344,
+    "setor": "NUTRIÇÃO",
+    "subsetor": "COE - Comissão de Orientação de Estágio",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6375",
+        "digits": "553221026375"
+      }
+    ],
+    "emails": [
+      "coe.nutricao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 345,
+    "setor": "NUTRIÇÃO",
+    "subsetor": "Comissão de Trabalho de Conclusão de Curso (TCC)",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "tcc.comissao@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 346,
+    "setor": "NUTRIÇÃO",
+    "subsetor": "Coordenação do Curso de Nutrição",
+    "site": "https://www2.ufjf.br/nutricao",
+    "telefones": [
+      {
+        "label": "(32) 2102-3234",
+        "digits": "553221023234"
+      }
+    ],
+    "emails": [
+      "coord.nutricao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 347,
+    "setor": "NUTRIÇÃO",
+    "subsetor": "Departamento de Nutrição",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "dep.nutricao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 348,
+    "setor": "NUTRIÇÃO",
+    "subsetor": "Laboratórios de Técnica Dietética, Análise Instrumental e Composição de Alimentos",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3234",
+        "digits": "553221023234"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 349,
+    "setor": "NUTRIÇÃO",
+    "subsetor": "Secretaria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3229",
+        "digits": "553221023229"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 350,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Atendimento Geral",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3856",
+        "digits": "553221023856"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 351,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Atendimento Odontológico",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 352,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Biblioteca de Odontologia e Farmácia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3860",
+        "digits": "553221023860"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 353,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Comissão Orientadora de Estágios (COE)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3865",
+        "digits": "553221023865"
+      }
+    ],
+    "emails": [
+      "coe.odonto@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 354,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Coordenação do Curso",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3854",
+        "digits": "553221023854"
+      }
+    ],
+    "emails": [
+      "coord.odontologia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 355,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Coordenação do Programa de Pós-graduação em Odontologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3881",
+        "digits": "553221023881"
+      }
+    ],
+    "emails": [
+      "ppg.odontologia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 356,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Departamento de Clínica Odontológica (CLO)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3857",
+        "digits": "553221023857"
+      }
+    ],
+    "emails": [
+      "depto.clo@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 357,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Departamento de Odontologia Restauradora – ORE",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3859",
+        "digits": "553221023859"
+      }
+    ],
+    "emails": [
+      "depto.ore@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 358,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Departamento de Odontologia Social e Infantil (OSI)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3858",
+        "digits": "553221023858"
+      }
+    ],
+    "emails": [
+      "depto.osi@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 359,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3850",
+        "digits": "553221023850"
+      }
+    ],
+    "emails": [
+      "direcao.odonto@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 360,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Portaria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3856",
+        "digits": "553221023856"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 361,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Radiologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3863",
+        "digits": "553221023863"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 362,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/odontologia",
+    "telefones": [
+      {
+        "label": "(32) 2102-3870",
+        "digits": "553221023870"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 363,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Triagem a tarde",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3890",
+        "digits": "553221023890"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 364,
+    "setor": "ODONTOLOGIA",
+    "subsetor": "Triagem de manhã",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3873",
+        "digits": "553221023873"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 365,
+    "setor": "OUVIDORIA",
+    "subsetor": "Ouvidoria Geral",
+    "site": "https://www2.ufjf.br/ouvidoria/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3380",
+        "digits": "553221023380"
+      }
+    ],
+    "emails": [
+      "ouvidoria@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 366,
+    "setor": "OUVIDORIA",
+    "subsetor": "SIC – Serviço de Informação ao Cidadão",
+    "site": "https://www.ufjf.br/ufjf/acesso-a-informacao/sic",
+    "telefones": [
+      {
+        "label": "(32) 2102-3996",
+        "digits": "553221023996"
+      }
+    ],
+    "emails": [
+      "sic@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 367,
+    "setor": "PEDAGOGIA",
+    "subsetor": "Coordenação do Curso",
+    "site": "https://www.ufjf.br/pedagogia",
+    "telefones": [],
+    "emails": [
+      "coord.pedagogiadiurno@ufjf.br",
+      "coord.pedagogianoturno@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 368,
+    "setor": "PEDAGOGIA",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/pedagogia",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 369,
+    "setor": "PEDAGOGIA ESTÁGIO",
+    "subsetor": "ESTÁGIO",
+    "site": "https://www.ufjf.br/pedagogia",
+    "telefones": [],
+    "emails": [
+      "relatorioestagio.pedagogiadiurno@ufjf.br",
+      "relatorioestagio.pedagogianoturno@ufjf.br",
+      "estagio.pedagogiadiurno@ufjf.br",
+      "estagio.pedagogianoturno@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 370,
+    "setor": "PRÓ-MÚSICA",
+    "subsetor": "https://www2.ufjf.br/ufjf/culturaelazer/promusica/",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 3215-3951",
+        "digits": "553232153951"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 371,
+    "setor": "PRÓ-REITORIA DE CULTURA – PROCULT",
+    "subsetor": "Forum da Cultura",
+    "site": "https://www.ufjf.br/procult/",
+    "telefones": [
+      {
+        "label": "(32) 2102-6305",
+        "digits": "553221026305"
+      }
+    ],
+    "emails": [
+      "forumdacultura@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 372,
+    "setor": "PRÓ-REITORIA DE CULTURA – PROCULT",
+    "subsetor": "Gabinete",
+    "site": "https://www.ufjf.br/procult/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3987",
+        "digits": "553221023987"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 373,
+    "setor": "PRÓ-REITORIA DE CULTURA – PROCULT",
+    "subsetor": "Memorial da República Presidente Itamar Franco",
+    "site": "https://www.ufjf.br/procult/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3594",
+        "digits": "553221023594"
+      }
+    ],
+    "emails": [
+      "secretaria.memorial@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 374,
+    "setor": "PRÓ-REITORIA DE CULTURA – PROCULT",
+    "subsetor": "Museu de Arqueologia e Etnologia Americana",
+    "site": "https://www.ufjf.br/procult/",
+    "telefones": [
+      {
+        "label": "(32) 2102-6380",
+        "digits": "553221026380"
+      }
+    ],
+    "emails": [
+      "maea@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 375,
+    "setor": "PRÓ-REITORIA DE CULTURA – PROCULT",
+    "subsetor": "Museu de Arte Murilo Mendes",
+    "site": "https://www.ufjf.br/procult/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3582",
+        "digits": "553221023582"
+      },
+      {
+        "label": "(32) 2102-3583",
+        "digits": "553221023583"
+      }
+    ],
+    "emails": [
+      "producao.mamm@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 376,
+    "setor": "PRÓ-REITORIA DE CULTURA – PROCULT",
+    "subsetor": "Secretaria da Procult",
+    "site": "https://www.ufjf.br/procult/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3964",
+        "digits": "553221023964"
+      },
+      {
+        "label": "(32) 2102-3965",
+        "digits": "553221023965"
+      }
+    ],
+    "emails": [
+      "secretaria.procultura@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 377,
+    "setor": "PROAE JUIZ DE FORA",
+    "subsetor": "Pedagógico",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "pedagogia.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 378,
+    "setor": "PROAE JUIZ DE FORA",
+    "subsetor": "PROAE JUIZ DE FORA",
+    "site": "https://www.ufjf.br/proae",
+    "telefones": [
+      {
+        "label": "(32) 2102-3777",
+        "digits": "553221023777"
+      }
+    ],
+    "emails": [
+      "secretaria.proae@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 379,
+    "setor": "PROAE JUIZ DE FORA",
+    "subsetor": "PROCULT – PRÓ-REITORIA DE CULTURA",
+    "site": "https://Secretaria",
+    "telefones": [
+      {
+        "label": "(32) 2102-3965",
+        "digits": "553221023965"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 380,
+    "setor": "PROAE JUIZ DE FORA",
+    "subsetor": "Psicologia",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "psicologia.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 381,
+    "setor": "PROAE JUIZ DE FORA",
+    "subsetor": "Serviço Social",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "atendimentosocial.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 382,
+    "setor": "PROCURADORIA – ADVOCACIA GERAL DA UNIÃO (AGU)",
+    "subsetor": "Atendimento Geral",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3907",
+        "digits": "553221023907"
+      },
+      {
+        "label": "(32) 2102-3988",
+        "digits": "553221023988"
+      }
+    ],
+    "emails": [
+      "procuradoria@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 383,
+    "setor": "PROEX – PRÓ-REITORIA E EXTENSÃO",
+    "subsetor": "Centro de Ciências",
+    "site": "https://www.ufjf.br/centrodeciencias",
+    "telefones": [
+      {
+        "label": "(32) 2102-6913",
+        "digits": "553221026913"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 384,
+    "setor": "PROEX – PRÓ-REITORIA E EXTENSÃO",
+    "subsetor": "Emissão de certificados",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "proexufjfcertificados@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 385,
+    "setor": "PROEX – PRÓ-REITORIA E EXTENSÃO",
+    "subsetor": "Emissão de certificados da PROEX",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "certificado.extensao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 386,
+    "setor": "PROEX – PRÓ-REITORIA E EXTENSÃO",
+    "subsetor": "Gerência de Ações de Extensão",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3959",
+        "digits": "553221023959"
+      },
+      {
+        "label": "(32) 2102-3961",
+        "digits": "553221023961"
+      }
+    ],
+    "emails": [
+      "extensao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 387,
+    "setor": "PROEX – PRÓ-REITORIA E EXTENSÃO",
+    "subsetor": "Intecoop – Incubadora Tecnológica de Cooperativas Populares",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6313",
+        "digits": "553221026313"
+      }
+    ],
+    "emails": [
+      "intecoopufjf@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 388,
+    "setor": "PROEX – PRÓ-REITORIA E EXTENSÃO",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/proex",
+    "telefones": [
+      {
+        "label": "(32) 2102-3971",
+        "digits": "553221023971"
+      }
+    ],
+    "emails": [
+      "secretaria.extensao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 389,
+    "setor": "PROEX – PRÓ-REITORIA E EXTENSÃO",
+    "subsetor": "Setor de Acompanhamento e Monitoramento",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3962",
+        "digits": "553221023962"
+      }
+    ],
+    "emails": [
+      "monitoria.extensao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 390,
+    "setor": "PROEX – PRÓ-REITORIA E EXTENSÃO",
+    "subsetor": "Setor de Comunicação e Eventos",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3961",
+        "digits": "553221023961"
+      }
+    ],
+    "emails": [
+      "eventosproexufjf@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 391,
+    "setor": "PROGEFI",
+    "subsetor": "Centro de Suprimentos",
+    "site": "https://www2.ufjf.br/cosup/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3739",
+        "digits": "553221023739"
+      },
+      {
+        "label": "(32) 2102-3745",
+        "digits": "553221023745"
+      },
+      {
+        "label": "(32) 2102-3740",
+        "digits": "553221023740"
+      }
+    ],
+    "emails": [
+      "logistica.cosup@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 392,
+    "setor": "PROGEFI",
+    "subsetor": "Comissão de Gerenciamento do SCDP",
+    "site": "https://www2.ufjf.br/scdp/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3921",
+        "digits": "553221023921"
+      }
+    ],
+    "emails": [
+      "reservas.planejamento@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 393,
+    "setor": "PROGEFI",
+    "subsetor": "Coordenação de Contratos",
+    "site": "https://www2.ufjf.br/contratos/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3920",
+        "digits": "553221023920"
+      }
+    ],
+    "emails": [
+      "contratos.proinfra@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 394,
+    "setor": "PROGEFI",
+    "subsetor": "Coordenação de Convênios",
+    "site": "https://www2.ufjf.br/convenio/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3916",
+        "digits": "553221023916"
+      }
+    ],
+    "emails": [
+      "coord.convenios@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 395,
+    "setor": "PROGEFI",
+    "subsetor": "Coordenação de Execução e Suporte Financeiro",
+    "site": "https://www2.ufjf.br/coesf/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3948",
+        "digits": "553221023948"
+      }
+    ],
+    "emails": [
+      "coesf@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 396,
+    "setor": "PROGEFI",
+    "subsetor": "Gerência de Fiscalização e Administração de Contratos Terceirizados",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3942",
+        "digits": "553221023942"
+      }
+    ],
+    "emails": [
+      "gfac.proinfra@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 397,
+    "setor": "PROGEFI",
+    "subsetor": "Secretaria da PROGEFI",
+    "site": "https://www2.ufjf.br/progefi/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3918",
+        "digits": "553221023918"
+      },
+      {
+        "label": "(32) 2102-3985",
+        "digits": "553221023985"
+      }
+    ],
+    "emails": [
+      "progefi@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 398,
+    "setor": "PROGEPE",
+    "subsetor": "Coordenação de Administração de Pessoal (CAP)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3923",
+        "digits": "553221023923"
+      }
+    ],
+    "emails": [
+      "cap.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 399,
+    "setor": "PROGEPE",
+    "subsetor": "Gerência de Cadastro (GCAD/CAP)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3925",
+        "digits": "553221023925"
+      },
+      {
+        "label": "(32) 2102-3935",
+        "digits": "553221023935"
+      }
+    ],
+    "emails": [
+      "gerenciacadastro.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 400,
+    "setor": "PROGEPE",
+    "subsetor": "Gerência de Remuneração (GREM/CAP)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3924",
+        "digits": "553221023924"
+      },
+      {
+        "label": "(32) 2102-3926",
+        "digits": "553221023926"
+      }
+    ],
+    "emails": [
+      "gerenciapagamento.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 401,
+    "setor": "PROGEPE",
+    "subsetor": "Núcleo de Apoio e Gestão de Carreiras (NUGEC/ADJ)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3931",
+        "digits": "553221023931"
+      }
+    ],
+    "emails": [
+      "carreiras.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 402,
+    "setor": "PROGEPE",
+    "subsetor": "Núcleo de Planejamento, Inovação e Assistência (NUPLA/ADJ)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3908",
+        "digits": "553221023908"
+      },
+      {
+        "label": "(32) 2102-3928",
+        "digits": "553221023928"
+      }
+    ],
+    "emails": [
+      "nupla.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 403,
+    "setor": "PROGEPE",
+    "subsetor": "Pró-reitoria Adjunta de Gestão de Pessoas (ADJ)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3930",
+        "digits": "553221023930"
+      }
+    ],
+    "emails": [
+      "proreitoriaadjunta.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 404,
+    "setor": "PROGEPE",
+    "subsetor": "PROQUALI – Programa de Apoio à Qualificação (NUDEP/ADJ)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3937",
+        "digits": "553221023937"
+      },
+      {
+        "label": "(32) 2102-3973",
+        "digits": "553221023973"
+      }
+    ],
+    "emails": [
+      "qualifica.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 405,
+    "setor": "PROGEPE",
+    "subsetor": "Secretaria da PROGEPE",
+    "site": "https://www.ufjf.br/progepe",
+    "telefones": [
+      {
+        "label": "(32) 2102-3930",
+        "digits": "553221023930"
+      }
+    ],
+    "emails": [
+      "secretaria.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 406,
+    "setor": "PROGEPE – PRÓ-REITORIA DE GESTÃO DE PESSOAS",
+    "subsetor": "Assistência à Saúde Suplementar (Plano de Saúde/CAP)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3933",
+        "digits": "553221023933"
+      }
+    ],
+    "emails": [
+      "planodesaude.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 407,
+    "setor": "PROGEPE – PRÓ-REITORIA DE GESTÃO DE PESSOAS",
+    "subsetor": "Coordenação de Alocação e Movimentação de Pessoas (CAMP)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3932",
+        "digits": "553221023932"
+      }
+    ],
+    "emails": [
+      "camp.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 408,
+    "setor": "PROGEPE – PRÓ-REITORIA DE GESTÃO DE PESSOAS",
+    "subsetor": "Coordenação de Saúde, Segurança e Bem-Estar (COSSBE)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3575",
+        "digits": "553221023575"
+      }
+    ],
+    "emails": [
+      "siass@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 409,
+    "setor": "PROGEPE – PRÓ-REITORIA DE GESTÃO DE PESSOAS",
+    "subsetor": "Equipe Multiprofissional",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3296",
+        "digits": "553221023296"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 410,
+    "setor": "PROGEPE – PRÓ-REITORIA DE GESTÃO DE PESSOAS",
+    "subsetor": "Exames Admissionais",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3885",
+        "digits": "553221023885"
+      }
+    ],
+    "emails": [
+      "gersaude.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 411,
+    "setor": "PROGEPE – PRÓ-REITORIA DE GESTÃO DE PESSOAS",
+    "subsetor": "Gerência de Alocação de Pessoas (GAP/CAMP)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3927",
+        "digits": "553221023927"
+      }
+    ],
+    "emails": [
+      "gap.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 412,
+    "setor": "PROGEPE – PRÓ-REITORIA DE GESTÃO DE PESSOAS",
+    "subsetor": "Gerência de Recrutamento e Seleção do Quadro Efetivo (GRSECAMP)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3929",
+        "digits": "553221023929"
+      }
+    ],
+    "emails": [
+      "grse.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 413,
+    "setor": "PROGEPE – PRÓ-REITORIA DE GESTÃO DE PESSOAS",
+    "subsetor": "Gerência de Recrutamento e Seleção do Quadro Temporário e Controle de Vagas (GRST/CAMP)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3914",
+        "digits": "553221023914"
+      }
+    ],
+    "emails": [
+      "grst.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 414,
+    "setor": "PROGEPE – PRÓ-REITORIA DE GESTÃO DE PESSOAS",
+    "subsetor": "Gerência de Saúde do Trabalhador",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3575",
+        "digits": "553221023575"
+      },
+      {
+        "label": "(32) 2102-3815",
+        "digits": "553221023815"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 415,
+    "setor": "PROGEPE – PRÓ-REITORIA DE GESTÃO DE PESSOAS",
+    "subsetor": "Gerência de Segurança do Trabalho (GST/COSSBE)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3817",
+        "digits": "553221023817"
+      },
+      {
+        "label": "(32) 2102-3269",
+        "digits": "553221023269"
+      }
+    ],
+    "emails": [
+      "gst.progepe@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 416,
+    "setor": "PROGEPE – PRÓ-REITORIA DE GESTÃO DE PESSOAS",
+    "subsetor": "PROADES – Programa de Avaliação de Desempenho dos Técnico-Administrativos em Educação (NUGEC/ADJ)",
+    "site": "https://proadj/nugec/proades/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3913",
+        "digits": "553221023913"
+      }
+    ],
+    "emails": [
+      "proades@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 417,
+    "setor": "PROGEPE – PRÓ-REITORIA DE GESTÃO DE PESSOAS",
+    "subsetor": "Secretaria da COSSBE/Unidade SIASS",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3815",
+        "digits": "553221023815"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 418,
+    "setor": "PROGRAD – PRÓ-REITORIA DE GRADUAÇÃO",
+    "subsetor": "Coordenação de Licenciaturas",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "licenciaturas.prograd@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 419,
+    "setor": "PROGRAD – PRÓ-REITORIA DE GRADUAÇÃO",
+    "subsetor": "Coordenação dos Programas de Graduação (bolsas)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3787",
+        "digits": "553221023787"
+      }
+    ],
+    "emails": [
+      "coord.prograd@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 420,
+    "setor": "PROGRAD – PRÓ-REITORIA DE GRADUAÇÃO",
+    "subsetor": "Gerência de Estágios",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3776",
+        "digits": "553221023776"
+      }
+    ],
+    "emails": [
+      "estagio.prograd@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 421,
+    "setor": "PROGRAD – PRÓ-REITORIA DE GRADUAÇÃO",
+    "subsetor": "(Monitoria, Treinamento Profissional, PET, GET, outras)",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 422,
+    "setor": "PROGRAD – PRÓ-REITORIA DE GRADUAÇÃO",
+    "subsetor": "Projeto de Universalização de Línguas Estrangeiras – PU",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3383",
+        "digits": "553221023383"
+      }
+    ],
+    "emails": [
+      "projeto.universalizacao@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 423,
+    "setor": "PROGRAD – PRÓ-REITORIA DE GRADUAÇÃO",
+    "subsetor": "Regulação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3905",
+        "digits": "553221023905"
+      }
+    ],
+    "emails": [
+      "piufjf.regulacao@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 424,
+    "setor": "PROGRAD – PRÓ-REITORIA DE GRADUAÇÃO",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/prograd",
+    "telefones": [
+      {
+        "label": "(32) 2102-3975",
+        "digits": "553221023975"
+      }
+    ],
+    "emails": [
+      "secretaria.prograd@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 425,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Almoxarifado da Proinfra",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3700",
+        "digits": "553221023700"
+      }
+    ],
+    "emails": [
+      "almox.proinfra@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 426,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Arquitetos",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3717",
+        "digits": "553221023717"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 427,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Coordenação de Informática, Infocentros e Telefonia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3705",
+        "digits": "553221023705"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 428,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Coordenação de Manutenção Civil e Reformas",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3725",
+        "digits": "553221023725"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 429,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Coordenação de Manutenção Elétrica, Eletrônica e Equipamentos",
+    "site": "https://www2.ufjf.br/proinfra/coordenacao-e-gerencia-2/coordenacao-de-manutencao-civil-e-reformas",
+    "telefones": [
+      {
+        "label": "(32) 2102-3702",
+        "digits": "553221023702"
+      },
+      {
+        "label": "(32) 2102-6363",
+        "digits": "553221026363"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 430,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Coordenação de Projetos e Obras",
+    "site": "https://www2.ufjf.br/proinfra/coordenacao-de-projetos-e-obras",
+    "telefones": [],
+    "emails": [
+      "almoxarifado.central@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 431,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Coordenação de Vigilância",
+    "site": "https://www2.ufjf.br/proinfra/coordenacao-de-vigilancia",
+    "telefones": [
+      {
+        "label": "(32) 2102-3793",
+        "digits": "553221023793"
+      },
+      {
+        "label": "(32) 2102-3716",
+        "digits": "553221023716"
+      }
+    ],
+    "emails": [
+      "diseg@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 432,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Engenheiros",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3798",
+        "digits": "553221023798"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 433,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Engenheiros eletricistas",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3715",
+        "digits": "553221023715"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 434,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Equipamentos e Refrigeração",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3794",
+        "digits": "553221023794"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 435,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Equipe de Manutenção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3783",
+        "digits": "553221023783"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 436,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Escritório de Projetos",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6928",
+        "digits": "553221026928"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 437,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Ferramentaria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-6308",
+        "digits": "553221026308"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 438,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Gerência Administrativa e Financeira",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3704",
+        "digits": "553221023704"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 439,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Gerência de Compras",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3742",
+        "digits": "553221023742"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 440,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Gerência de Paisagismo",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3783",
+        "digits": "553221023783"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 441,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Gerência de Transporte",
+    "site": "https://www.ufjf.br/transporte",
+    "telefones": [
+      {
+        "label": "(32) 2102-3714",
+        "digits": "553221023714"
+      }
+    ],
+    "emails": [
+      "transporte@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 442,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Hidráulica, Obras e Pintura",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3729",
+        "digits": "553221023729"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 443,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Infocentros",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3728",
+        "digits": "553221023728"
+      }
+    ],
+    "emails": [
+      "infocentro@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 444,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Licitação e Pregão",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3740",
+        "digits": "553221023740"
+      }
+    ],
+    "emails": [
+      "logistica.cosup@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 445,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "(Localizado no Salão de leitura da Bilbioteca Central)",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 446,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Manutenção de Informática",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3995",
+        "digits": "553221023995"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 447,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Oficina",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3706",
+        "digits": "553221023706"
+      },
+      {
+        "label": "(32) 2102-3728",
+        "digits": "553221023728"
+      },
+      {
+        "label": "(32) 2102-3708",
+        "digits": "553221023708"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 448,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Parques e Jardins",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3783",
+        "digits": "553221023783"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 449,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Portaria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3716",
+        "digits": "553221023716"
+      }
+    ],
+    "emails": [
+      "diseg@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 450,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Protocolo e Correios",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3718",
+        "digits": "553221023718"
+      }
+    ],
+    "emails": [
+      "protocolo.proinfra@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 451,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Sala de Projetos",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3782",
+        "digits": "553221023782"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 452,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Secretaria",
+    "site": "https://www2.ufjf.br/proinfra",
+    "telefones": [
+      {
+        "label": "(32) 2102-3713",
+        "digits": "553221023713"
+      }
+    ],
+    "emails": [
+      "secretaria.proinfra@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 453,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Segurança do Trabalho",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3711",
+        "digits": "553221023711"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 454,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Serralheria/Marcenaria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3722",
+        "digits": "553221023722"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 455,
+    "setor": "PROINFRA – PRÓ-REITORIA DE INFRAESTRUTURA E GESTÃO",
+    "subsetor": "Suporte de Informática",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3370",
+        "digits": "553221023370"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 456,
+    "setor": "PROPLAN – PRÓ-REITORIA DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS",
+    "subsetor": "Centro de Difusão do Conhecimento – CDC",
+    "site": "https://www.ufjf.br/biblioteca",
+    "telefones": [
+      {
+        "label": "(32) 2102-3761",
+        "digits": "553221023761"
+      }
+    ],
+    "emails": [
+      "secretaria.cdc@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 457,
+    "setor": "PROPLAN – PRÓ-REITORIA DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS",
+    "subsetor": "Comissão de gerenciamento do SCDP",
+    "site": "https://www.ufjf.br/planejamento/scdp",
+    "telefones": [
+      {
+        "label": "(32) 2102-3921",
+        "digits": "553221023921"
+      }
+    ],
+    "emails": [
+      "reservas.planejamento@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 458,
+    "setor": "PROPLAN – PRÓ-REITORIA DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS",
+    "subsetor": "Coordenação de Execução e Suporte Financeiro – COESF",
+    "site": "https://www2.ufjf.br/coesf",
+    "telefones": [
+      {
+        "label": "(32) 2102-3948",
+        "digits": "553221023948"
+      }
+    ],
+    "emails": [
+      "coesf@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 459,
+    "setor": "PROPLAN – PRÓ-REITORIA DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS",
+    "subsetor": "Equipe Técnica – Secretaria",
+    "site": "https://www.ufjf.br/planejamento",
+    "telefones": [
+      {
+        "label": "(32) 2102-3938",
+        "digits": "553221023938"
+      }
+    ],
+    "emails": [
+      "planejamento@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 460,
+    "setor": "PROPLAN – PRÓ-REITORIA DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS",
+    "subsetor": "Responsável pelo gerenciamento das bibliotecas da UFJF",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 461,
+    "setor": "PROPLAN – PRÓ-REITORIA DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS",
+    "subsetor": "Sistema de Concessão de Diárias e Passagem (SCDP)",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 462,
+    "setor": "PROPLAN – PRÓ-REITORIA DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS",
+    "subsetor": "Sistema eletrônico de Informações – SEI (Reitoria/Campus)",
+    "site": "https://www2.ufjf.br/sei",
+    "telefones": [
+      {
+        "label": "(32) 2102-3984",
+        "digits": "553221023984"
+      }
+    ],
+    "emails": [
+      "sei@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 463,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Bolsas de pós-graduação",
+    "site": "https://www2.ufjf.br/propp/pos-graduacao/bolsas-depos-graduacao",
+    "telefones": [
+      {
+        "label": "(32) 2102-3775",
+        "digits": "553221023775"
+      }
+    ],
+    "emails": [
+      "bolsaspg.propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 464,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Centro de Bioterismo Regional (antigo Centro de Biologia da Reprodução) – CBR",
+    "site": "https://www2.ufjf.br/cbr",
+    "telefones": [
+      {
+        "label": "(32) 2102-3255",
+        "digits": "553221023255"
+      },
+      {
+        "label": "(32) 2102-3251",
+        "digits": "553221023251"
+      }
+    ],
+    "emails": [
+      "bioterio.cbr@ufjf.br",
+      "laboratorio.cbr@ufjf.br",
+      "direcao.cbr@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 465,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Centro de Pesquisas Sociais – CPS",
+    "site": "https://www2.ufjf.br/cps",
+    "telefones": [
+      {
+        "label": "(32) 2102-3104",
+        "digits": "553221023104"
+      }
+    ],
+    "emails": [
+      "cps@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 466,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Comissão de Ética no Uso de Animais (CEUA)",
+    "site": "http://www.ufjf.br/ceua",
+    "telefones": [
+      {
+        "label": "(32) 2102-3784",
+        "digits": "553221023784"
+      }
+    ],
+    "emails": [
+      "ceua.propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 467,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Comissão de Residência Médica – COREME",
+    "site": "https://www2.ufjf.br/huresidencias/coreme-2",
+    "telefones": [
+      {
+        "label": "(32) 4009-5167",
+        "digits": "553240095167"
+      }
+    ],
+    "emails": [
+      "coreme.huufjf@ebserh.gov.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 468,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Comissão de Residência Multiprofissional e em Área Profissional da Saúde – COREMU",
+    "site": "https://www2.ufjf.br/huresidencias/coremu",
+    "telefones": [
+      {
+        "label": "(32) 4009-5167",
+        "digits": "553240095167"
+      },
+      {
+        "label": "(32) 2102-3773",
+        "digits": "553221023773"
+      }
+    ],
+    "emails": [
+      "coremu@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 469,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Comissão de Residência Multiprofissional e em Área Profissional da Saúde– COREMU",
+    "site": "https://www2.ufjf.br/huresidencias/coremu/",
+    "telefones": [
+      {
+        "label": "(32) 4009-5167",
+        "digits": "553240095167"
+      },
+      {
+        "label": "(32) 2102-3773",
+        "digits": "553221023773"
+      }
+    ],
+    "emails": [
+      "geracad.propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 470,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Comitê Assessor de Pesquisa",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3880",
+        "digits": "553221023880"
+      }
+    ],
+    "emails": [
+      "cap.propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 471,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Comitê Assessor de Pesquisa (CAP)",
+    "site": "https://www2.ufjf.br/propp/institucional/comitesetica/comite-assessor-ao-cspp",
+    "telefones": [
+      {
+        "label": "(32) 2102-3880",
+        "digits": "553221023880"
+      }
+    ],
+    "emails": [
+      "pesquisa.propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 472,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Comitê de Ética em Pesquisa com Seres Humanos (CEP)",
+    "site": "https://www2.ufjf.br/comitedeetica",
+    "telefones": [
+      {
+        "label": "(32) 2102-3788",
+        "digits": "553221023788"
+      }
+    ],
+    "emails": [
+      "cep.propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 473,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Comitê de Ética em Pesquisa com Seres Humanos (CEP)",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3788",
+        "digits": "553221023788"
+      }
+    ],
+    "emails": [
+      "cep.propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 474,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Conselho Setorial de Pós-Graduação e Pesquisa (CSPP)",
+    "site": "https://www2.ufjf.br/cspp",
+    "telefones": [
+      {
+        "label": "(32) 2102-3720",
+        "digits": "553221023720"
+      }
+    ],
+    "emails": [
+      "cspp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 475,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Contratação de Professor Visitante",
+    "site": "https://www2.ufjf.br/propp/professor-visitante-2025",
+    "telefones": [
+      {
+        "label": "(32) 2102-3778",
+        "digits": "553221023778"
+      }
+    ],
+    "emails": [
+      "visitantes.propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 476,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Editora da UFJF",
+    "site": "https://www2.ufjf.br/niassa",
+    "telefones": [
+      {
+        "label": "(32) 2102-3720",
+        "digits": "553221023720"
+      }
+    ],
+    "emails": [
+      "niassa@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 477,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Gerência Acadêmica: Pós-graduação lato e stricto sensu Homologação de título",
+    "site": "https://www2.ufjf.br/propp/pos-graduacao/documentosstricto/stricto-sensu-clique-aqui/proposta-deconcessao-de-diarias-e-passagens",
+    "telefones": [
+      {
+        "label": "(32) 2102-3773",
+        "digits": "553221023773"
+      },
+      {
+        "label": "(32) 2102-3880",
+        "digits": "553221023880"
+      }
+    ],
+    "emails": [
+      "geracad.propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 478,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Gerência de Pesquisa Pesquisa Iniciação Científica Bolsas de IC Projetos Grupos de pesquisa e laboratórios",
+    "site": "https://www2.ufjf.br/propp/pesquisa",
+    "telefones": [
+      {
+        "label": "(32) 2102-3784",
+        "digits": "553221023784"
+      }
+    ],
+    "emails": [
+      "pesquisa.propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 479,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Núcleo Administrativo: SCDP Reembolsos Compras/Pagamentose doutorado",
+    "site": "https://www2.ufjf.br/propp/pos-graduacao/documentosstricto/stricto-sensu-clique-aqui/proposta-deconcessao-de-diarias-e-passagens",
+    "telefones": [
+      {
+        "label": "(32) 2102-3785",
+        "digits": "553221023785"
+      }
+    ],
+    "emails": [
+      "scdp.propp@ufjf.br",
+      "adm.propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 480,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Revista Principia",
+    "site": "https://periodicos.ufjf.br/index.php/principia",
+    "telefones": [
+      {
+        "label": "(32) 2102-3720",
+        "digits": "553221023720"
+      }
+    ],
+    "emails": [
+      "propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 481,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Secretaria",
+    "site": "https://www2.ufjf.br/propp",
+    "telefones": [
+      {
+        "label": "(32) 2102-3766",
+        "digits": "553221023766"
+      }
+    ],
+    "emails": [
+      "propp@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 482,
+    "setor": "PROPP – PRÓ-REITORIA DE PÓS-GRADUAÇÃO E PESQUISA",
+    "subsetor": "Semic",
+    "site": "https://www2.ufjf.br/semic",
+    "telefones": [],
+    "emails": [
+      "semic@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 483,
+    "setor": "PROSDAV",
+    "subsetor": "Centro de Gestão do Conhecimento Organizacional – CGCO",
+    "site": "https://www2.ufjf.br/cgco/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3371",
+        "digits": "553221023371"
+      }
+    ],
+    "emails": [
+      "secretaria.cgco@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 484,
+    "setor": "PROSDAV",
+    "subsetor": "Pró-Reitoria de Sistemas de Dados e Avaliação",
+    "site": "https://www2.ufjf.br/prosdav/",
+    "telefones": [
+      {
+        "label": "(32) 2102-3981",
+        "digits": "553221023981"
+      }
+    ],
+    "emails": [
+      "prosdav@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 485,
+    "setor": "PSICOLOGIA",
+    "subsetor": "Coordenação do Curso",
+    "site": "https://www.ufjf.br/psicologia",
+    "telefones": [],
+    "emails": [
+      "coord.psicologia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 486,
+    "setor": "QUÍMICA",
+    "subsetor": "Coordenação do Curso de Licenciatura em Química a distância",
+    "site": "https://www2.ufjf.br/quimicaead",
+    "telefones": [
+      {
+        "label": "(32) 2102-3316",
+        "digits": "553221023316"
+      }
+    ],
+    "emails": [
+      "secrataria.liquimica.ead@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 487,
+    "setor": "QUÍMICA",
+    "subsetor": "Coordenação do Curso de Licenciatura em Química Noturno",
+    "site": "https://www2.ufjf.br/quimicanoturno",
+    "telefones": [
+      {
+        "label": "(32) 2102-3316",
+        "digits": "553221023316"
+      }
+    ],
+    "emails": [
+      "coord.quimicanoturno@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 488,
+    "setor": "QUÍMICA",
+    "subsetor": "Coordenação dos cursos de Licenciatura e Bacharelado em Química Integral",
+    "site": "https://www2.ufjf.br/ice",
+    "telefones": [
+      {
+        "label": "(32) 2102-3316",
+        "digits": "553221023316"
+      }
+    ],
+    "emails": [
+      "coord.quimicadiurno@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 489,
+    "setor": "QUÍMICA",
+    "subsetor": "Departamento de Química",
+    "site": "https://www2.ufjf.br/quimica",
+    "telefones": [
+      {
+        "label": "(32) 2102-3310",
+        "digits": "553221023310"
+      }
+    ],
+    "emails": [
+      "depto.quimica@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 490,
+    "setor": "QUÍMICA",
+    "subsetor": "Programa de Pós-Graduação em Química",
+    "site": "https://www2.ufjf.br/ppgquimica",
+    "telefones": [
+      {
+        "label": "(32) 2102-3309",
+        "digits": "553221023309"
+      }
+    ],
+    "emails": [
+      "ppgquimica.ice@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 491,
+    "setor": "REITORIA",
+    "subsetor": "Escritório de Processos",
+    "site": "https://www.ufjf.br/escritoriodeprocessos",
+    "telefones": [
+      {
+        "label": "(32) 2102-6379",
+        "digits": "553221026379"
+      }
+    ],
+    "emails": [
+      "escritoriodeprocessos@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 492,
+    "setor": "REITORIA",
+    "subsetor": "Secretaria do Gabinete",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3903",
+        "digits": "553221023903"
+      }
+    ],
+    "emails": [
+      "secretaria.reitoria@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 493,
+    "setor": "REITORIA",
+    "subsetor": "Secretaria Geral",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3904",
+        "digits": "553221023904"
+      },
+      {
+        "label": "(32) 2102-3909",
+        "digits": "553221023909"
+      }
+    ],
+    "emails": [
+      "secretariageral.reitoria@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 494,
+    "setor": "RESTAURANTE UNIVERSITÁRIO – RU",
+    "subsetor": "RU Campus",
+    "site": "https://www.ufjf.br/ru",
+    "telefones": [
+      {
+        "label": "(32) 2102-3491",
+        "digits": "553221023491"
+      },
+      {
+        "label": "(32) 2102-3497",
+        "digits": "553221023497"
+      }
+    ],
+    "emails": [
+      "ru.ufjf@gmail.com"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 495,
+    "setor": "RESTAURANTE UNIVERSITÁRIO – RU",
+    "subsetor": "RU Centro",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3585",
+        "digits": "553221023585"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 496,
+    "setor": "SEMPRE VIVO – Programa de doação voluntária de corpos para fins de ensino e pesquisa",
+    "subsetor": "Departamento de Anatomia",
+    "site": "https://www.ufjf.br/anatomia",
+    "telefones": [
+      {
+        "label": "(32) 2102-3205",
+        "digits": "553221023205"
+      }
+    ],
+    "emails": [
+      "depto.anatomia@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 497,
+    "setor": "SERVIÇO SOCIAL",
+    "subsetor": "Biblioteca do Serviço Social",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "biblioteca.servicosocial@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 498,
+    "setor": "SERVIÇO SOCIAL",
+    "subsetor": "Casa Helenira Preta – Localizada na Av. Barão do Rio Branco, 3372 ou pela Rua Severino Meireles, 260 – Passos – Juiz de Fora",
+    "site": "https://www.ufjf.br/facssocial/institucional/casa-helenira-preta/",
+    "telefones": [
+      {
+        "label": "(32) 2102-6310",
+        "digits": "553221026310"
+      }
+    ],
+    "emails": [
+      "casa.helenirarezende@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 499,
+    "setor": "SERVIÇO SOCIAL",
+    "subsetor": "Coordenação de estágio",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3564",
+        "digits": "553221023564"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 500,
+    "setor": "SERVIÇO SOCIAL",
+    "subsetor": "Coordenação do Curso da Graduação",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3563",
+        "digits": "553221023563"
+      }
+    ],
+    "emails": [
+      "coord.ssocial@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 501,
+    "setor": "SERVIÇO SOCIAL",
+    "subsetor": "Direção",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3560",
+        "digits": "553221023560"
+      }
+    ],
+    "emails": [
+      "direcao.ssocial@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 502,
+    "setor": "SERVIÇO SOCIAL",
+    "subsetor": "PPGSS",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3569",
+        "digits": "553221023569"
+      }
+    ],
+    "emails": [
+      "ppg.ssocial@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 503,
+    "setor": "SERVIÇO SOCIAL",
+    "subsetor": "Secretaria",
+    "site": "https://www.ufjf.br/facssocial",
+    "telefones": [
+      {
+        "label": "(32) 2102-3561",
+        "digits": "553221023561"
+      }
+    ],
+    "emails": [
+      "secretaria.ssocial@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 504,
+    "setor": "SERVIÇOS ODONTOLÓGICOS",
+    "subsetor": "Acolhimento",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3855",
+        "digits": "553221023855"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 505,
+    "setor": "SERVIÇOS ODONTOLÓGICOS",
+    "subsetor": "Atendimento Geral",
+    "site": "https://www.ufjf.br/odontologia/atendimentos",
+    "telefones": [
+      {
+        "label": "(32) 2102-3856",
+        "digits": "553221023856"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 506,
+    "setor": "SERVIÇOS ODONTOLÓGICOS",
+    "subsetor": "ATM",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3865",
+        "digits": "553221023865"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 507,
+    "setor": "SERVIÇOS ODONTOLÓGICOS",
+    "subsetor": "Endodontia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3860",
+        "digits": "553221023860"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 508,
+    "setor": "SERVIÇOS ODONTOLÓGICOS",
+    "subsetor": "Odontopediatria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3875",
+        "digits": "553221023875"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 509,
+    "setor": "SERVIÇOS ODONTOLÓGICOS",
+    "subsetor": "Ortodontia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3879",
+        "digits": "553221023879"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 510,
+    "setor": "SERVIÇOS ODONTOLÓGICOS",
+    "subsetor": "Portaria",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3856",
+        "digits": "553221023856"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 511,
+    "setor": "SERVIÇOS ODONTOLÓGICOS",
+    "subsetor": "Prótese Dentária",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3881",
+        "digits": "553221023881"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 512,
+    "setor": "SERVIÇOS ODONTOLÓGICOS",
+    "subsetor": "Radiologia",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3863",
+        "digits": "553221023863"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 513,
+    "setor": "SERVIÇOS ODONTOLÓGICOS",
+    "subsetor": "Triagem",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3873",
+        "digits": "553221023873"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 514,
+    "setor": "SINTUFEJUF – Sindicato dos trabalhadores técnico-administrativos em educação das instituições federais de ensino no município de Juiz de Fora",
+    "subsetor": "Sede administrativa: Rua Santo Antônio, 309 – Centro (ao lado do Restaurante Universitário)",
+    "site": "https://www.sintufejuf.org.br",
+    "telefones": [
+      {
+        "label": "(32) 3215-7979",
+        "digits": "553232157979"
+      }
+    ],
+    "emails": [
+      "comunicacao@sintufejuf.org.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 515,
+    "setor": "VALADARES – GV",
+    "subsetor": "Almoxarifado",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 516,
+    "setor": "VALADARES – GV",
+    "subsetor": "Almoxarifado e Patrimônio",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "patrimonio.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 517,
+    "setor": "VALADARES – GV",
+    "subsetor": "Arquivo",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "arquivo.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 518,
+    "setor": "VALADARES – GV",
+    "subsetor": "Assistência Estudantil",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "atendimentosocial.gv@ufjf.br",
+      "psicologia.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 519,
+    "setor": "VALADARES – GV",
+    "subsetor": "Associação Brasileira de Odontologia (ABO)",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 520,
+    "setor": "VALADARES – GV",
+    "subsetor": "Biblioteca Centro",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 521,
+    "setor": "VALADARES – GV",
+    "subsetor": "Biblioteca do Campus Avançado Governador Valadares",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(33) 3301-1011",
+        "digits": "553333011011"
+      }
+    ],
+    "emails": [
+      "biblioteca.sociais.gv@ufjf.br",
+      "biblioteca.saude.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 522,
+    "setor": "VALADARES – GV",
+    "subsetor": "Biblioteca Vila Bretas",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 523,
+    "setor": "VALADARES – GV",
+    "subsetor": "Central de Atendimento",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(33) 3301-1002",
+        "digits": "553333011002"
+      }
+    ],
+    "emails": [
+      "caad.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 524,
+    "setor": "VALADARES – GV",
+    "subsetor": "Clínica Escola de Fisioterapia",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 525,
+    "setor": "VALADARES – GV",
+    "subsetor": "Comunicação, Cultura e Eventos",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(33) 3301-1015",
+        "digits": "553333011015"
+      }
+    ],
+    "emails": [
+      "comunicacao.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 526,
+    "setor": "VALADARES – GV",
+    "subsetor": "Contratos",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "contratos.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 527,
+    "setor": "VALADARES – GV",
+    "subsetor": "Coordenação Acadêmica",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 528,
+    "setor": "VALADARES – GV",
+    "subsetor": "COORDENAÇÃO ADMINISTRATIVA",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 529,
+    "setor": "VALADARES – GV",
+    "subsetor": "COORDENAÇÃO DE GESTÃO DE PESSOAS",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 530,
+    "setor": "VALADARES – GV",
+    "subsetor": "Coordenação de Recursos Humanos",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(33) 3301-1003",
+        "digits": "553333011003"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 531,
+    "setor": "VALADARES – GV",
+    "subsetor": "Coordenações dos cursos",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 532,
+    "setor": "VALADARES – GV",
+    "subsetor": "Direção",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 533,
+    "setor": "VALADARES – GV",
+    "subsetor": "Direção do ICSA",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(33) 3301-1007",
+        "digits": "553333011007"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 534,
+    "setor": "VALADARES – GV",
+    "subsetor": "Direção do ICV",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(33) 3301-1006",
+        "digits": "553333011006"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 535,
+    "setor": "VALADARES – GV",
+    "subsetor": "Direção Geral",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(33) 3301-1005",
+        "digits": "553333011005"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 536,
+    "setor": "VALADARES – GV",
+    "subsetor": "DIRETORIA DO INSTITUTO DE CIÊNCIAS DA VIDA",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 537,
+    "setor": "VALADARES – GV",
+    "subsetor": "DIRETORIA DO INSTITUTO DE CIÊNCIAS SOCIAIS APLICADAS",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 538,
+    "setor": "VALADARES – GV",
+    "subsetor": "Diretoria geral",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 539,
+    "setor": "VALADARES – GV",
+    "subsetor": "Estágios",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "estagios.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 540,
+    "setor": "VALADARES – GV",
+    "subsetor": "Extensão",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "extensao.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 541,
+    "setor": "VALADARES – GV",
+    "subsetor": "Farmácia Universitária",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 542,
+    "setor": "VALADARES – GV",
+    "subsetor": "Financeiro",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "financeiro.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 543,
+    "setor": "VALADARES – GV",
+    "subsetor": "Geral",
+    "site": "https://www.ufjf.br/campusgv",
+    "telefones": [
+      {
+        "label": "(33) 3301-1000",
+        "digits": "553333011000"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 544,
+    "setor": "VALADARES – GV",
+    "subsetor": "Gerência Administrativa",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "administrativo.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 545,
+    "setor": "VALADARES – GV",
+    "subsetor": "Gerência de Graduação",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "gerencia.graduacao.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 546,
+    "setor": "VALADARES – GV",
+    "subsetor": "Gerência de Infraestrutura",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 547,
+    "setor": "VALADARES – GV",
+    "subsetor": "GERÊNCIA DE INFRAESTRUTURA E TECNOLOGIA DA INFORMAÇÃO",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 548,
+    "setor": "VALADARES – GV",
+    "subsetor": "Graduação",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "graduacao.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 549,
+    "setor": "VALADARES – GV",
+    "subsetor": "Inovação, Empreendedorismo e Transferência de Tecnologia",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "inovacao.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 550,
+    "setor": "VALADARES – GV",
+    "subsetor": "Laboratório Multi Química",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 551,
+    "setor": "VALADARES – GV",
+    "subsetor": "Laboratório Parasitologia",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 552,
+    "setor": "VALADARES – GV",
+    "subsetor": "LISTA DE NÚMEROS EXTERNOS",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 553,
+    "setor": "VALADARES – GV",
+    "subsetor": "LISTA DE RAMAIS INTERNOS – Para falar com algum dos setores abaixo, basta ligar para o número (33) 3301-1000 e informar o ramal desejado.",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 554,
+    "setor": "VALADARES – GV",
+    "subsetor": "Manutenção e Projetos",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 555,
+    "setor": "VALADARES – GV",
+    "subsetor": "Núcleo Administrativo / Pitágoras",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 556,
+    "setor": "VALADARES – GV",
+    "subsetor": "Núcleo Administrativo / Unipac",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 557,
+    "setor": "VALADARES – GV",
+    "subsetor": "Núcleo de Prática Jurídica / Escritório Escola de Direito",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(33) 3301-1009",
+        "digits": "553333011009"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 558,
+    "setor": "VALADARES – GV",
+    "subsetor": "Núcleo de Tecnologia da Informação",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "ti.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 559,
+    "setor": "VALADARES – GV",
+    "subsetor": "Núcleo de TI",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(33) 3301-1010",
+        "digits": "553333011010"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 560,
+    "setor": "VALADARES – GV",
+    "subsetor": "Perícias Médicas",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 561,
+    "setor": "VALADARES – GV",
+    "subsetor": "Pós-Graduação e Pesquisa",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "pesquisa.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 562,
+    "setor": "VALADARES – GV",
+    "subsetor": "Promoção à Saúde",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 563,
+    "setor": "VALADARES – GV",
+    "subsetor": "Protocolo",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "protocolo.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 564,
+    "setor": "VALADARES – GV",
+    "subsetor": "Recepção",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "caad.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 565,
+    "setor": "VALADARES – GV",
+    "subsetor": "Restaurante Universitário",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "ru.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 566,
+    "setor": "VALADARES – GV",
+    "subsetor": "Sala dos professores",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 567,
+    "setor": "VALADARES – GV",
+    "subsetor": "Secretaria da Direção",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "secretaria.educacaofisica.gv@ufjf.br",
+      "secretaria.sociais.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 568,
+    "setor": "VALADARES – GV",
+    "subsetor": "Secretaria da Diretoria-Geral",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "secretaria.diretoria.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 569,
+    "setor": "VALADARES – GV",
+    "subsetor": "Secretaria de Gestão de Pessoa",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "cgp.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 570,
+    "setor": "VALADARES – GV",
+    "subsetor": "Secretaria do curso de Educação Física",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "secretaria.educacaofisica.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 571,
+    "setor": "VALADARES – GV",
+    "subsetor": "Secretaria do curso de Farmácia",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "secretaria.farmacia.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 572,
+    "setor": "VALADARES – GV",
+    "subsetor": "Secretaria do curso de Fisioterapia",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "secretaria.fisioterapia.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 573,
+    "setor": "VALADARES – GV",
+    "subsetor": "Secretaria do curso de Medicina",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "secretaria.medicina.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 574,
+    "setor": "VALADARES – GV",
+    "subsetor": "Secretaria do curso de Nutrição",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "secretaria.nutricao.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 575,
+    "setor": "VALADARES – GV",
+    "subsetor": "Secretaria do curso de Odontologia",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "secretaria.odontologia.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 576,
+    "setor": "VALADARES – GV",
+    "subsetor": "Secretaria do Departamento Básico de Ciências da Vida",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 577,
+    "setor": "VALADARES – GV",
+    "subsetor": "Secretaria dos cursos",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "secretaria.sociais.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 578,
+    "setor": "VALADARES – GV",
+    "subsetor": "Secretaria Unificada Pós-graduação ICV",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 579,
+    "setor": "VALADARES – GV",
+    "subsetor": "SERVIÇOS",
+    "site": "",
+    "telefones": [],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 580,
+    "setor": "VALADARES – GV",
+    "subsetor": "SIAPE@FONE",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(33) 3301-1001",
+        "digits": "553333011001"
+      }
+    ],
+    "emails": [],
+    "observacoes": ""
+  },
+  {
+    "id": 581,
+    "setor": "VALADARES – GV",
+    "subsetor": "Transportes",
+    "site": "",
+    "telefones": [],
+    "emails": [
+      "transporte.gv@ufjf.br"
+    ],
+    "observacoes": ""
+  },
+  {
+    "id": 582,
+    "setor": "VALADARES – GV",
+    "subsetor": "Turismo",
+    "site": "",
+    "telefones": [
+      {
+        "label": "(32) 2102-3119",
+        "digits": "553221023119"
+      }
+    ],
+    "emails": [
+      "coordenacaoturufjf@gmail.com"
+    ],
+    "observacoes": ""
+  }
+]
