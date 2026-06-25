@@ -1,82 +1,55 @@
-
 <!doctype html>
 <html lang="pt-BR">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Catálogo de contatos organizado com busca, filtros, favoritos e exportação." />
+  <meta name="description" content="Catálogo de contatos da UFJF com busca por setor, subsetor, telefone, e-mail e site." />
   <title>Catálogo de Contatos UFJF</title>
   <link rel="stylesheet" href="style.css" />
-
-  <!-- GoatCounter -->
-<script data-goatcounter="https://alandias.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-      </head>
+</head>
 <body>
-  <header class="topbar">
-    <div class="container header-grid">
+  <header class="hero">
+    <div class="container hero__inner">
       <div>
-        <p class="eyebrow">Catálogo institucional</p>
-        <h1>Catálogo de Contatos UFJF</h1>
-        <p class="subtitle">Pesquise setores, subsetores, telefones, e-mails e sites em uma página rápida e responsiva.</p>
+        <p class="eyebrow">UFJF</p>
+        <h1>Catálogo de Contatos</h1>
+        <p class="hero__text">Busque rapidamente setores, subsetores, telefones, e-mails e sites institucionais.</p>
       </div>
-      <div class="header-actions">
-        <button id="themeToggle" class="btn ghost" type="button" aria-label="Alternar tema">🌙 Tema</button>
-        <button id="exportCsv" class="btn" type="button">Exportar CSV</button>
+      <div class="hero__card" aria-label="Resumo do catálogo">
+        <span id="totalContatos">0</span>
+        <small>contatos carregados</small>
       </div>
     </div>
   </header>
 
-  <main class="container">
-    <section class="panel search-panel" aria-label="Busca e filtros">
-      <label class="search-label" for="searchInput">Pesquisar contato</label>
-      <div class="search-row">
-        <input id="searchInput" type="search" placeholder="Ex.: biblioteca, CDARA, 2102-3733, coordenação..." autocomplete="off" />
-        <button id="clearSearch" class="btn secondary" type="button">Limpar</button>
-      </div>
-      <div class="filters">
-        <label>
-          Setor
-          <select id="sectorFilter"><option value="">Todos os setores</option></select>
-        </label>
-        <label class="check"><input id="onlyPhone" type="checkbox" /> Somente com telefone</label>
-        <label class="check"><input id="onlyEmail" type="checkbox" /> Somente com e-mail</label>
-        <label class="check"><input id="onlySite" type="checkbox" /> Somente com site</label>
-        <label class="check"><input id="onlyFavorites" type="checkbox" /> Meus favoritos</label>
-      </div>
-      <p class="hint">Dica: pesquise por palavra, telefone, e-mail ou parte do setor. Os filtros funcionam juntos.</p>
+  <main class="container main">
+    <section class="toolbar" aria-label="Ferramentas de busca e filtro">
+      <label class="searchBox">
+        <span>Pesquisar</span>
+        <input id="searchInput" type="search" placeholder="Ex.: CDARA, diploma, telefone, e-mail..." autocomplete="off" />
+      </label>
+      <label class="selectBox">
+        <span>Setor</span>
+        <select id="sectorFilter">
+          <option value="">Todos os setores</option>
+        </select>
+      </label>
+      <button id="clearBtn" type="button">Limpar</button>
     </section>
 
-    <section class="stats" aria-label="Resumo do catálogo">
-      <article><strong id="statContacts">0</strong><span>contatos</span></article>
-      <article><strong id="statPhones">0</strong><span>telefones</span></article>
-      <article><strong id="statEmails">0</strong><span>e-mails</span></article>
-      <article><strong id="statSites">0</strong><span>sites</span></article>
+    <section class="status" aria-live="polite">
+      <strong id="resultCount">0</strong> resultado(s) encontrado(s)
     </section>
 
-    <section class="toolbar" aria-label="Resultados">
-      <p><strong id="resultCount">0</strong> resultado(s) encontrado(s)</p>
-      <div>
-        <button id="viewCards" class="btn small active" type="button">Cartões</button>
-        <button id="viewTable" class="btn small secondary" type="button">Tabela</button>
-      </div>
-    </section>
-
-    <section id="cards" class="cards" aria-live="polite"></section>
-
-    <section id="tableWrap" class="table-wrap hidden" aria-live="polite">
-      <table>
-        <thead>
-          <tr><th>Setor</th><th>Subsetor</th><th>Site</th><th>Contatos</th><th>Ações</th></tr>
-        </thead>
-        <tbody id="tableBody"></tbody>
-      </table>
-    </section>
-
-    <p id="emptyState" class="empty hidden">Nenhum contato encontrado com os filtros atuais.</p>
+    <section id="cards" class="cards" aria-label="Lista de contatos"></section>
   </main>
 
-  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <footer class="footer">
+    <div class="container">
+      <p>Dados atualizados a partir da planilha enviada em 25/06/2026.</p>
+    </div>
+  </footer>
+
   <script src="script.js"></script>
 </body>
 </html>
