@@ -1,114 +1,145 @@
 const state = {
-  contatos: [],
-  query: '',
-  setor: ''
+  contacts: [],
+  filtered: [],
+  view: localStorage.getItem('catalogo:view') || 'cards',
+  favorites: new Set(JSON.parse(localStorage.getItem('catalogo:favorites') || '[]')),
 };
 
+const $ = (id) => document.getElementById(id);
 const els = {
-  cards: document.querySelector('#cards'),
-  search: document.querySelector('#searchInput'),
-  sector: document.querySelector('#sectorFilter'),
-  clear: document.querySelector('#clearBtn'),
-  count: document.querySelector('#resultCount'),
-  total: document.querySelector('#totalContatos')
+  search: $('searchInput'), clear: $('clearSearch'), sector: $('sectorFilter'), onlyPhone: $('onlyPhone'),
+  onlyEmail: $('onlyEmail'), onlySite: $('onlySite'), onlyFavorites: $('onlyFavorites'), cards: $('cards'),
+  tableWrap: $('tableWrap'), tableBody: $('tableBody'), empty: $('emptyState'), resultCount: $('resultCount'),
+  statContacts: $('statContacts'), statPhones: $('statPhones'), statEmails: $('statEmails'), statSites: $('statSites'),
+  toast: $('toast'), viewCards: $('viewCards'), viewTable: $('viewTable'), theme: $('themeToggle'), exportCsv: $('exportCsv')
 };
 
-const normalize = (value) => String(value || '')
-  .normalize('NFD')
-  .replace(/[\u0300-\u036f]/g, '')
-  .toLowerCase();
-
-const escapeHTML = (value) => String(value || '').replace(/[&<>'"]/g, char => ({
-  '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#039;', '"': '&quot;'
-}[char]));
-
-function splitField(value) {
-  return String(value || '')
-    .split(/\s*\|\s*|\s*;\s*/)
-    .map(item => item.trim())
-    .filter(Boolean);
+function normalize(value) {
+  return String(value || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 }
-
-function linkifyEmails(value) {
-  const emails = splitField(value);
-  if (!emails.length) return '<span>Não informado</span>';
-  return emails.map(email => `<a href="mailto:${escapeHTML(email)}">${escapeHTML(email)}</a>`).join('<br>');
+function searchable(c) {
+  return normalize([c.setor, c.subsetor, c.site, ...c.emails, ...c.telefones.map(t => `${t.label} ${t.digits}`)].join(' '));
 }
-
-function linkifyPhones(value) {
-  const phones = splitField(value);
-  if (!phones.length) return '<span>Não informado</span>';
-  return phones.map(phone => {
-    const digits = phone.replace(/\D/g, '');
-    const href = digits.length >= 8 ? `tel:+55${digits.replace(/^55/, '')}` : '#';
-    return href === '#' ? escapeHTML(phone) : `<a href="${href}">${escapeHTML(phone)}</a>`;
-  }).join('<br>');
+function showToast(message) {
+  els.toast.textContent = message;
+  els.toast.classList.add('show');
+  window.clearTimeout(showToast.timer);
+  showToast.timer = window.setTimeout(() => els.toast.classList.remove('show'), 1800);
 }
-
-function formatSite(site) {
-  if (!site) return '<span>Não informado</span>';
-  const safe = escapeHTML(site);
-  return `<a href="${safe}" target="_blank" rel="noopener noreferrer">${safe}</a>`;
+async function copyText(text, label = 'Copiado!') {
+  try { await navigator.clipboard.writeText(text); showToast(label); }
+  catch { showToast('Não foi possível copiar automaticamente.'); }
 }
-
-function populateSectors() {
-  const sectors = [...new Set(state.contatos.map(c => c.setor).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'pt-BR'));
-  els.sector.innerHTML = '<option value="">Todos os setores</option>' + sectors.map(setor => `<option value="${escapeHTML(setor)}">${escapeHTML(setor)}</option>`).join('');
+function saveFavorites() { localStorage.setItem('catalogo:favorites', JSON.stringify([...state.favorites])); }
+function toggleFavorite(id) {
+  const key = String(id);
+  state.favorites.has(key) ? state.favorites.delete(key) : state.favorites.add(key);
+  saveFavorites(); render();
 }
-
-function filteredContacts() {
-  const q = normalize(state.query);
-  return state.contatos.filter(contato => {
-    const matchesSector = !state.setor || contato.setor === state.setor;
-    const haystack = normalize(`${contato.setor} ${contato.subsetor} ${contato.site} ${contato.telefones} ${contato.emails}`);
-    const matchesQuery = !q || haystack.includes(q);
-    return matchesSector && matchesQuery;
+function phoneLinks(phone) {
+  const isMobile = phone.digits && phone.digits.length >= 13 && phone.digits.substring(4,5) === '9';
+  const tel = `<a href="tel:+${phone.digits}">${phone.label}</a>`;
+  const whats = isMobile ? `<a class="btn small secondary" target="_blank" rel="noopener" href="https://wa.me/${phone.digits}">WhatsApp</a>` : '';
+  return { tel, whats };
+}
+function contactHtml(c) {
+  const phones = c.telefones.map(p => {
+    const links = phoneLinks(p);
+    return `<div class="contact-item"><span>📞 ${links.tel}</span><button class="copy" data-copy="${p.label}" data-label="Telefone copiado">Copiar</button></div>`;
+  }).join('');
+  const emails = c.emails.map(e => `<div class="contact-item"><span>✉️ <a href="mailto:${e}">${e}</a></span><button class="copy" data-copy="${e}" data-label="E-mail copiado">Copiar</button></div>`).join('');
+  if (!phones && !emails) return '<span class="badge">Sem telefone/e-mail cadastrado</span>';
+  return phones + emails;
+}
+function actionsHtml(c) {
+  const site = c.site ? `<a class="btn small secondary" target="_blank" rel="noopener" href="${c.site}">Abrir site</a>` : '';
+  const firstPhone = c.telefones[0];
+  const whats = firstPhone ? phoneLinks(firstPhone).whats : '';
+  const email = c.emails[0] ? `<a class="btn small secondary" href="mailto:${c.emails[0]}">Enviar e-mail</a>` : '';
+  return [site, whats, email].filter(Boolean).join('');
+}
+function renderCards(list) {
+  els.cards.innerHTML = list.map(c => `
+    <article class="card">
+      <div class="card-header">
+        <div><h2>${escapeHtml(c.setor || 'Sem setor')}</h2><p class="subsetor">${escapeHtml(c.subsetor || 'Sem subsetor')}</p></div>
+        <button class="favorite ${state.favorites.has(String(c.id)) ? 'is-favorite' : ''}" title="Favoritar" data-favorite="${c.id}">★</button>
+      </div>
+      <div class="contact-list">${contactHtml(c)}</div>
+      <div class="actions">${actionsHtml(c)}</div>
+    </article>`).join('');
+}
+function renderTable(list) {
+  els.tableBody.innerHTML = list.map(c => `
+    <tr>
+      <td>${escapeHtml(c.setor || '')}</td><td>${escapeHtml(c.subsetor || '')}</td>
+      <td>${c.site ? `<a href="${c.site}" target="_blank" rel="noopener">Acessar</a>` : '-'}</td>
+      <td>${contactHtml(c)}</td>
+      <td><button class="favorite ${state.favorites.has(String(c.id)) ? 'is-favorite' : ''}" data-favorite="${c.id}">★</button></td>
+    </tr>`).join('');
+}
+function escapeHtml(text) {
+  const div = document.createElement('div'); div.textContent = text; return div.innerHTML;
+}
+function applyFilters() {
+  const query = normalize(els.search.value);
+  const sector = els.sector.value;
+  state.filtered = state.contacts.filter(c => {
+    if (query && !searchable(c).includes(query)) return false;
+    if (sector && c.setor !== sector) return false;
+    if (els.onlyPhone.checked && !c.telefones.length) return false;
+    if (els.onlyEmail.checked && !c.emails.length) return false;
+    if (els.onlySite.checked && !c.site) return false;
+    if (els.onlyFavorites.checked && !state.favorites.has(String(c.id))) return false;
+    return true;
   });
 }
-
 function render() {
-  const contatos = filteredContacts();
-  els.count.textContent = contatos.length;
-  if (!contatos.length) {
-    els.cards.innerHTML = '<div class="empty">Nenhum contato encontrado. Tente buscar por outro termo ou limpar os filtros.</div>';
-    return;
-  }
-  els.cards.innerHTML = contatos.map(contato => `
-    <article class="card">
-      <div>
-        <h2>${escapeHTML(contato.setor || 'Sem setor')}</h2>
-        <p class="subsetor">${escapeHTML(contato.subsetor || 'Sem subsetor informado')}</p>
-      </div>
-      <div class="info">
-        <div><span class="label">Telefone</span>${linkifyPhones(contato.telefones)}</div>
-        <div><span class="label">E-mail</span>${linkifyEmails(contato.emails)}</div>
-        <div><span class="label">Site</span>${formatSite(contato.site)}</div>
-      </div>
-    </article>
-  `).join('');
+  applyFilters();
+  els.resultCount.textContent = state.filtered.length;
+  els.empty.classList.toggle('hidden', state.filtered.length > 0);
+  els.cards.classList.toggle('hidden', state.view !== 'cards');
+  els.tableWrap.classList.toggle('hidden', state.view !== 'table');
+  els.viewCards.classList.toggle('active', state.view === 'cards');
+  els.viewTable.classList.toggle('active', state.view === 'table');
+  renderCards(state.filtered); renderTable(state.filtered);
 }
-
+function populateSectorFilter() {
+  const sectors = [...new Set(state.contacts.map(c => c.setor).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'pt-BR'));
+  els.sector.insertAdjacentHTML('beforeend', sectors.map(s => `<option value="${escapeHtml(s)}">${escapeHtml(s)}</option>`).join(''));
+}
+function updateStats() {
+  els.statContacts.textContent = state.contacts.length;
+  els.statPhones.textContent = state.contacts.reduce((sum,c)=>sum+c.telefones.length,0);
+  els.statEmails.textContent = state.contacts.reduce((sum,c)=>sum+c.emails.length,0);
+  els.statSites.textContent = state.contacts.filter(c=>c.site).length;
+}
+function exportCsv() {
+  const rows = [['Setor','Subsetor','Site','Telefones','Emails'], ...state.filtered.map(c => [c.setor, c.subsetor, c.site, c.telefones.map(p=>p.label).join(' | '), c.emails.join(' | ')])];
+  const csv = rows.map(r => r.map(v => `"${String(v||'').replace(/"/g,'""')}"`).join(';')).join('\n');
+  const blob = new Blob(['\ufeff' + csv], {type: 'text/csv;charset=utf-8;'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a'); a.href = url; a.download = 'catalogo-contatos-ufjf.csv'; a.click(); URL.revokeObjectURL(url);
+}
+function setupEvents() {
+  [els.search, els.sector, els.onlyPhone, els.onlyEmail, els.onlySite, els.onlyFavorites].forEach(el => el.addEventListener('input', render));
+  els.clear.addEventListener('click', () => { els.search.value=''; els.sector.value=''; els.onlyPhone.checked=false; els.onlyEmail.checked=false; els.onlySite.checked=false; els.onlyFavorites.checked=false; render(); });
+  els.viewCards.addEventListener('click', () => { state.view='cards'; localStorage.setItem('catalogo:view','cards'); render(); });
+  els.viewTable.addEventListener('click', () => { state.view='table'; localStorage.setItem('catalogo:view','table'); render(); });
+  els.exportCsv.addEventListener('click', exportCsv);
+  document.body.addEventListener('click', (e) => {
+    const copy = e.target.closest('[data-copy]'); if (copy) copyText(copy.dataset.copy, copy.dataset.label || 'Copiado');
+    const fav = e.target.closest('[data-favorite]'); if (fav) toggleFavorite(fav.dataset.favorite);
+  });
+  els.theme.addEventListener('click', () => {
+    const current = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = current; localStorage.setItem('catalogo:theme', current);
+  });
+}
 async function init() {
-  try {
-    const response = await fetch('data/contatos.json');
-    if (!response.ok) throw new Error('Não foi possível carregar data/contatos.json');
-    state.contatos = await response.json();
-    els.total.textContent = state.contatos.length;
-    populateSectors();
-    render();
-  } catch (error) {
-    els.cards.innerHTML = `<div class="empty">Erro ao carregar contatos: ${escapeHTML(error.message)}</div>`;
-  }
+  document.documentElement.dataset.theme = localStorage.getItem('catalogo:theme') || 'light';
+  const response = await fetch('data/contatos.json');
+  state.contacts = await response.json();
+  populateSectorFilter(); updateStats(); setupEvents(); render();
 }
-
-els.search.addEventListener('input', event => { state.query = event.target.value; render(); });
-els.sector.addEventListener('change', event => { state.setor = event.target.value; render(); });
-els.clear.addEventListener('click', () => {
-  state.query = '';
-  state.setor = '';
-  els.search.value = '';
-  els.sector.value = '';
-  render();
-});
-
-init();
+init().catch(err => { console.error(err); showToast('Erro ao carregar os contatos.'); });
