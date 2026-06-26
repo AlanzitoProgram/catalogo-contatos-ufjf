@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Catálogo de contatos da UFJF com busca por setor, subsetor, telefone, e-mail e site." />
+  <title>Catálogo de Contatos UFJF</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="container hero__inner">
+      <div>
+        <p class="eyebrow">UFJF</p>
+        <h1>Catálogo de Contatos</h1>
+        <p class="hero__text">Busque rapidamente setores, subsetores, telefones, e-mails e sites institucionais.</p>
+      </div>
+      <div class="hero__card" aria-label="Resumo do catálogo">
+        <span id="totalContatos">0</span>
+        <small>contatos carregados</small>
+      </div>
+    </div>
+  </header>
+
+  <main class="container main">
+    <section class="toolbar" aria-label="Ferramentas de busca e filtro">
+      <label class="searchBox">
+        <span>Pesquisar</span>
+        <input id="searchInput" type="search" placeholder="Ex.: CDARA, diploma, telefone, e-mail..." autocomplete="off" />
+      </label>
+      <label class="selectBox">
+        <span>Setor</span>
+        <select id="sectorFilter">
+          <option value="">Todos os setores</option>
+        </select>
+      </label>
+      <button id="clearBtn" type="button">Limpar</button>
+    </section>
+
+    <section class="status" aria-live="polite">
+      <strong id="resultCount">0</strong> resultado(s) encontrado(s)
+    </section>
+
+    <section id="cards" class="cards" aria-label="Lista de contatos"></section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>Dados atualizados a partir da planilha enviada em 25/06/2026.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
